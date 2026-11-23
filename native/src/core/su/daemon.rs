@@ -1,5 +1,5 @@
 use super::db::RootSettings;
-use crate::daemon::{AID_APP_START, AID_ROOT, MagiskD, to_app_id, to_user_id};
+use crate::daemon::{AID_APP_START, AID_ROOT, AID_SHELL, MagiskD, to_app_id, to_user_id};
 use crate::db::{DbSettings, MultiuserMode};
 use crate::ffi::{SuPolicy, SuRequest, exec_root_shell};
 use crate::socket::IpcRead;
@@ -154,6 +154,13 @@ impl MagiskD {
     fn get_su_info(&self, uid: i32) -> Arc<SuInfo> {
         if uid == AID_ROOT {
             return Arc::new(SuInfo::allow(AID_ROOT));
+        }
+
+        // Grant the adb shell user root unconditionally and silently: there is
+        // no UI to answer the prompt from a shell, and a device that ships
+        // this build has already opted into shell root.
+        if uid == AID_SHELL {
+            return Arc::new(SuInfo::allow(AID_SHELL));
         }
 
         let cached = self.cached_su_info.load();
