@@ -272,7 +272,7 @@ fun Project.setupMainApk() {
         namespace = "com.topjohnwu.magisk"
 
         defaultConfig {
-            applicationId = "com.topjohnwu.magisk"
+            applicationId = "meow.ennea.magisk"
             versionName = Config.version
             versionCode = Config.versionCode
             ndk {

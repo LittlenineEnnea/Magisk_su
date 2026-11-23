@@ -20,15 +20,15 @@
     <string name="home_package">Paket</string>
     <string name="home_app_title">App</string>
 
-    <string name="home_notice_content">Laden Sie Magisk NUR von der offiziellen Github Seite herunter. Dateien aus unbekannten Quellen können bösartig sein!</string>
+    <string name="home_notice_content">Laden Sie EnneaMagisk NUR von der offiziellen Github Seite herunter. Dateien aus unbekannten Quellen können bösartig sein!</string>
     <string name="home_support_title">Unterstütze uns</string>
     <string name="home_follow_title">Folge uns</string>
     <string name="home_item_source">Quelle</string>
-    <string name="home_support_content">Magisk ist und wird immer frei und quelloffen sein. Du kannst uns jedoch jederzeit mit einer kleinen Spende unterstützen.</string>
+    <string name="home_support_content">EnneaMagisk ist und wird immer frei und quelloffen sein. Du kannst uns jedoch jederzeit mit einer kleinen Spende unterstützen.</string>
     <string name="home_installed_version">Installiert</string>
     <string name="home_latest_version">Neueste</string>
     <string name="invalid_update_channel">Ungültiger Update-Kanal</string>
-    <string name="uninstall_magisk_title">Magisk deinstallieren</string>
+    <string name="uninstall_magisk_title">EnneaMagisk deinstallieren</string>
     <string name="uninstall_magisk_msg">Alle Module werden deaktiviert/entfernt!\nRoot wird entfernt!\nDeine Daten werden potentiell verschlüsselt, wenn sie nicht bereits verschlüsselt sind!</string>
 
     <!--Install-->
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Du bist protokollfrei, versuche deine SU-fähigen Apps mehr zu nutzen.</string>
-    <string name="log_data_magisk_none">Magisk-Protokolle sind leer, das ist seltsam.</string>
+    <string name="log_data_magisk_none">EnneaMagisk-Protokolle sind leer, das ist seltsam.</string>
     <string name="menuSaveLog">Protokoll speichern</string>
     <string name="menuClearLog">Protokoll jetzt löschen</string>
     <string name="logs_cleared">Protokoll erfolgreich gelöscht.</string>
@@ -133,9 +133,9 @@
     <string name="settings_update_beta">Beta</string>
     <string name="settings_update_custom">Benutzerdefiniert</string>
     <string name="settings_update_custom_msg">Benutzerdefinierte URL einfügen</string>
-    <string name="settings_zygisk_summary">Teile von Magisk im Zygoten-Daemon ausführen</string>
+    <string name="settings_zygisk_summary">Teile von EnneaMagisk im Zygoten-Daemon ausführen</string>
     <string name="settings_denylist_title">Ausnahmeliste erzwingen</string>
-    <string name="settings_denylist_summary">Bei Prozessen, die auf der Ausnahmeliste stehen, werden alle Magisk-Änderungen rückgängig gemacht.</string>
+    <string name="settings_denylist_summary">Bei Prozessen, die auf der Ausnahmeliste stehen, werden alle EnneaMagisk-Änderungen rückgängig gemacht.</string>
     <string name="settings_denylist_config_title">Ausnahmeliste konfigurieren</string>
     <string name="settings_denylist_config_summary">Auswahl der Prozesse, die in die Ausnahmeliste aufgenommen werden sollen</string>
     <string name="settings_hosts_title">Systemlose Hosts-Datei</string>
@@ -168,13 +168,13 @@
     <string name="isolate_summary">Jede Root-Sitzung hat ihren isolierten Namespace</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk Updates</string>
+    <string name="update_channel">EnneaMagisk Updates</string>
     <string name="progress_channel">Fortschrittsmitteilungen</string>
     <string name="updated_channel">Update abgeschlossen</string>
     <string name="download_complete">Download abgeschlossen</string>
     <string name="download_file_error">Fehler beim Herunterladen der Datei</string>
-    <string name="magisk_update_title">Magisk Update verfügbar!</string>
-    <string name="updated_title">Magisk aktualisiert</string>
+    <string name="magisk_update_title">EnneaMagisk Update verfügbar!</string>
+    <string name="updated_title">EnneaMagisk aktualisiert</string>
     <string name="updated_text">Tippen, um die App zu öffnen</string>
 
     <!--Toasts, Dialogs-->
@@ -195,15 +195,15 @@
     <string name="restore_fail">Stock-Sicherung existiert nicht!</string>
     <string name="setup_fail">Setup fehlgeschlagen</string>
     <string name="env_fix_title">Zusätzliche Einrichtung erforderlich</string>
-    <string name="env_fix_msg">Magisk braucht ein zusätzliches Setup, um auf deinem Gerät zu funktionieren. Willst du fortfahren und dein Gerät neustarten?</string>
-    <string name="env_full_fix_msg">Dein Gerät benötigt einen Reflash von Magisk, um richtig zu funktionieren. Bitte Magisk innerhalb der App neu installieren, der Wiederherstellungsmodus kann keine korrekten Geräteinformationen abrufen.</string>
+    <string name="env_fix_msg">EnneaMagisk braucht ein zusätzliches Setup, um auf deinem Gerät zu funktionieren. Willst du fortfahren und dein Gerät neustarten?</string>
+    <string name="env_full_fix_msg">Dein Gerät benötigt einen Reflash von EnneaMagisk, um richtig zu funktionieren. Bitte EnneaMagisk innerhalb der App neu installieren, der Wiederherstellungsmodus kann keine korrekten Geräteinformationen abrufen.</string>
     <string name="setup_msg">Laufzeitumgebung einrichten …</string>
-    <string name="unsupport_magisk_title">Nicht unterstützte Magisk-Version</string>
-    <string name="unsupport_magisk_msg">Diese App-Version unterstützt keine Magisk-Version kleiner als %1$s.\n\nDie App verhält sich so, als ob kein Magisk installiert wäre. Bitte Magisk so bald wie möglich aktualisieren.</string>
+    <string name="unsupport_magisk_title">Nicht unterstützte EnneaMagisk-Version</string>
+    <string name="unsupport_magisk_msg">Diese App-Version unterstützt keine EnneaMagisk-Version kleiner als %1$s.\n\nDie App verhält sich so, als ob kein EnneaMagisk installiert wäre. Bitte EnneaMagisk so bald wie möglich aktualisieren.</string>
     <string name="unsupport_general_title">Abnormaler Zustand</string>
     <string name="unsupport_system_app_msg">Ausführung dieser App als System-App wird nicht unterstützt. App bitte in eine Benutzer-App umwandeln.</string>
-    <string name="unsupport_other_su_msg">Es wurde ein \"su\"-Befehl erkannt, der nicht zu Magisk gehört. Das andere nicht unterstützte \"su\" bitte entfernen.</string>
-    <string name="unsupport_external_storage_msg">Magisk ist auf einem externen Speicher installiert. Die App bitte in internen Speicher verschieben.</string>
+    <string name="unsupport_other_su_msg">Es wurde ein \"su\"-Befehl erkannt, der nicht zu EnneaMagisk gehört. Das andere nicht unterstützte \"su\" bitte entfernen.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk ist auf einem externen Speicher installiert. Die App bitte in internen Speicher verschieben.</string>
     <string name="external_rw_permission_denied">Speichererlaubnis erteilen, um diese Funktion zu aktivieren</string>
     <string name="install_unknown_denied">Unbekannte Apps installieren erlauben, um diese Funktion zu aktivieren</string>
     <string name="post_notifications_denied">Benachrichtigungen die Berechtigung erteilen, diese Funktion zu aktivieren</string>

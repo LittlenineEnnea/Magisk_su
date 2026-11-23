@@ -18,15 +18,15 @@
     <string name="home_package">پیکیج</string>
     <string name="home_app_title">ایپ</string>
 
-    <string name="home_notice_content">صرف آفیشل گٹ ہب پیج سے Magisk ڈاؤن لوڈ کریں۔ نامعلوم ذرائع سے فائلیں نقصان دہ ہو سکتی ہیں!</string>
+    <string name="home_notice_content">صرف آفیشل گٹ ہب پیج سے EnneaMagisk ڈاؤن لوڈ کریں۔ نامعلوم ذرائع سے فائلیں نقصان دہ ہو سکتی ہیں!</string>
     <string name="home_support_title">ہماری مدد کریں</string>
     <string name="home_follow_title">ہمیں فالو کریں</string>
     <string name="home_item_source">ذریعہ</string>
-    <string name="home_support_content">Magisk ہمیشہ مفت اور اوپن سورس رہے گا۔ تاہم، آپ عطیہ کر کے ہمیں اپنی دیکھ بھال کا اظہار کر سکتے ہیں۔</string>
+    <string name="home_support_content">EnneaMagisk ہمیشہ مفت اور اوپن سورس رہے گا۔ تاہم، آپ عطیہ کر کے ہمیں اپنی دیکھ بھال کا اظہار کر سکتے ہیں۔</string>
     <string name="home_installed_version">انسٹال شدہ</string>
     <string name="home_latest_version">تازہ ترین</string>
     <string name="invalid_update_channel">غلط اپ ڈیٹ چینل</string>
-    <string name="uninstall_magisk_title">Magisk اَن انسٹال کریں</string>
+    <string name="uninstall_magisk_title">EnneaMagisk اَن انسٹال کریں</string>
     <string name="uninstall_magisk_msg">تمام ماڈیولز غیر فعال/ہٹا دیے جائیں گے!\nروٹ ہٹا دیا جائے گا!\nMagisk کے استعمال کے ذریعے غیر اینکرپٹ کی گئی کوئی بھی اندرونی اسٹوریج دوبارہ اینکرپٹ ہو جائے گی!</string>
 
     <string name="keep_force_encryption">جبری انکرپشن کو محفوظ رکھیں</string>
@@ -74,7 +74,7 @@
     <string name="superuser_policy_none">ابھی تک کسی ایپ نے سپر یوزر کی اجازت نہیں مانگی ہے۔</string>
 
     <string name="log_data_none">آپ لاگ فری ہیں، اپنی روٹ ایپس کو مزید استعمال کرنے کی کوشش کریں</string>
-    <string name="log_data_magisk_none">Magisk لاگز خالی ہیں، یہ عجیب بات ہے</string>
+    <string name="log_data_magisk_none">EnneaMagisk لاگز خالی ہیں، یہ عجیب بات ہے</string>
     <string name="menuSaveLog">لاگ محفوظ کریں</string>
     <string name="menuClearLog">ابھی لاگ صاف کریں</string>
     <string name="logs_cleared">لاگ کامیابی سے صاف ہو گیا</string>
@@ -124,9 +124,9 @@
     <string name="settings_update_beta">بیٹا</string>
     <string name="settings_update_custom">کسٹم</string>
     <string name="settings_update_custom_msg">ایک کسٹم چینل URL درج کریں</string>
-    <string name="settings_zygisk_summary">zygote ڈیمن میں Magisk کے کچھ حصے چلائیں</string>
+    <string name="settings_zygisk_summary">zygote ڈیمن میں EnneaMagisk کے کچھ حصے چلائیں</string>
     <string name="settings_denylist_title">مسترد فہرست نافذ کریں</string>
-    <string name="settings_denylist_summary">مسترد فہرست میں موجود عملوں میں Magisk کی تمام ترامیم کو کالعدم قرار دیا جائے گا</string>
+    <string name="settings_denylist_summary">مسترد فہرست میں موجود عملوں میں EnneaMagisk کی تمام ترامیم کو کالعدم قرار دیا جائے گا</string>
     <string name="settings_denylist_config_title">مسترد فہرست کی تشکیل کریں</string>
     <string name="settings_denylist_config_summary">مسترد فہرست میں شامل کرنے کے لیے عمل منتخب کریں</string>
     <string name="settings_hosts_title">سسٹم لیس ہوسٹس</string>
@@ -157,13 +157,13 @@
     <string name="settings_ns_requester">نیم اسپیس وراثت میں حاصل کریں</string>
     <string name="settings_ns_isolate">آئسولیٹڈ نیم اسپیس</string>
     <string name="isolate_summary">ہر روٹ سیشن کی اپنی آئسولیٹڈ نیم اسپیس ہوگی</string>
-    <string name="update_channel">Magisk اپ ڈیٹس</string>
+    <string name="update_channel">EnneaMagisk اپ ڈیٹس</string>
     <string name="progress_channel">پیش رفت کی اطلاعات</string>
     <string name="updated_channel">اپ ڈیٹ مکمل</string>
     <string name="download_complete">ڈاؤن لوڈ مکمل</string>
     <string name="download_file_error">فائل ڈاؤن لوڈ کرنے میں خرابی</string>
-    <string name="magisk_update_title">Magisk اپ ڈیٹ دستیاب ہے!</string>
-    <string name="updated_title">Magisk اپ ڈیٹ ہو گیا</string>
+    <string name="magisk_update_title">EnneaMagisk اپ ڈیٹ دستیاب ہے!</string>
+    <string name="updated_title">EnneaMagisk اپ ڈیٹ ہو گیا</string>
     <string name="updated_text">ایپ کھولنے کے لیے ٹیپ کریں</string>
     <string name="yes">ہاں</string>
     <string name="no">نہیں</string>
@@ -182,16 +182,16 @@
     <string name="restore_done">بحالی مکمل ہو گئی!</string>
     <string name="restore_fail">اسٹاک بیک اپ موجود نہیں ہے!</string>
     <string name="setup_fail">سیٹ اپ ناکام ہو گیا</string>
-    <string name="env_full_fix_msg">Magisk کو صحیح طریقے سے کام کرنے کے لیے آپ کے آلے کو دوبارہ فلیش کرنے کی ضرورت ہے۔ براہ کرم ایپ کے اندر Magisk کو دوبارہ انسٹال کریں، ریکوری موڈ درست ڈیوائس کی معلومات حاصل نہیں کر سکتا۔</string>
+    <string name="env_full_fix_msg">EnneaMagisk کو صحیح طریقے سے کام کرنے کے لیے آپ کے آلے کو دوبارہ فلیش کرنے کی ضرورت ہے۔ براہ کرم ایپ کے اندر EnneaMagisk کو دوبارہ انسٹال کریں، ریکوری موڈ درست ڈیوائس کی معلومات حاصل نہیں کر سکتا۔</string>
     <string name="env_fix_title">اضافی سیٹ اپ درکار ہے</string>
-    <string name="env_fix_msg">Magisk کو صحیح طریقے سے کام کرنے کے لیے آپ کے آلے کو اضافی سیٹ اپ کی ضرورت ہے۔ کیا آپ جاری رکھنا چاہتے ہیں اور ریبوٹ کرنا چاہتے ہیں؟</string>
+    <string name="env_fix_msg">EnneaMagisk کو صحیح طریقے سے کام کرنے کے لیے آپ کے آلے کو اضافی سیٹ اپ کی ضرورت ہے۔ کیا آپ جاری رکھنا چاہتے ہیں اور ریبوٹ کرنا چاہتے ہیں؟</string>
     <string name="setup_msg">ماحول کا سیٹ اپ چل رہا ہے…</string>
-    <string name="unsupport_magisk_title">Magisk کا غیر تعاون یافتہ ورژن</string>
-    <string name="unsupport_magisk_msg">ایپ کا یہ ورژن %1$s سے کم Magisk ورژنز کو سپورٹ نہیں کرتا ہے۔\n\nایپ ایسے برتاؤ کرے گی جیسے کوئی Magisk انسٹال نہیں ہے، براہ کرم جلد از جلد Magisk کو اپ گریڈ کریں۔</string>
+    <string name="unsupport_magisk_title">EnneaMagisk کا غیر تعاون یافتہ ورژن</string>
+    <string name="unsupport_magisk_msg">ایپ کا یہ ورژن %1$s سے کم EnneaMagisk ورژنز کو سپورٹ نہیں کرتا ہے۔\n\nایپ ایسے برتاؤ کرے گی جیسے کوئی EnneaMagisk انسٹال نہیں ہے، براہ کرم جلد از جلد EnneaMagisk کو اپ گریڈ کریں۔</string>
     <string name="unsupport_general_title">غیر معمولی حالت</string>
     <string name="unsupport_system_app_msg">سسٹم ایپ کے طور پر اس ایپ کو چلانا تعاون یافتہ نہیں ہے۔ براہ کرم ایپ کو صارف ایپ میں واپس کریں۔</string>
-    <string name="unsupport_other_su_msg">Magisk کے علاوہ کسی اور "su" بائنری کا پتہ چلا ہے۔ براہ کرم کسی بھی مسابقتی روٹ حل کو ہٹا دیں اور/یا Magisk کو دوبارہ انسٹال کریں۔</string>
-    <string name="unsupport_external_storage_msg">Magisk بیرونی اسٹوریج پر انسٹال ہے۔ براہ کرم ایپ کو اندرونی اسٹوریج میں منتقل کریں۔</string>
+    <string name="unsupport_other_su_msg">EnneaMagisk کے علاوہ کسی اور "su" بائنری کا پتہ چلا ہے۔ براہ کرم کسی بھی مسابقتی روٹ حل کو ہٹا دیں اور/یا EnneaMagisk کو دوبارہ انسٹال کریں۔</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk بیرونی اسٹوریج پر انسٹال ہے۔ براہ کرم ایپ کو اندرونی اسٹوریج میں منتقل کریں۔</string>
     <string name="external_rw_permission_denied">اس فعالیت کو فعال کرنے کے لیے اسٹوریج کی اجازت دیں</string>
     <string name="post_notifications_denied">اس فعالیت کو فعال کرنے کے لیے اطلاعات کی اجازت دیں</string>
     <string name="install_unknown_denied">اس فعالیت کو فعال کرنے کے لیے "نامعلوم ایپس انسٹال کریں" کی اجازت دیں</string>

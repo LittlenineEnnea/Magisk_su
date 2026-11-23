@@ -20,15 +20,15 @@
     <string name="home_package">Kifurushi</string>
     <string name="home_app_title">Programu</string>
 
-    <string name="home_notice_content">Download Magisk ONLY from the official GitHub page. Files from unknown sources can be malicious!</string>
+    <string name="home_notice_content">Download EnneaMagisk ONLY from the official GitHub page. Files from unknown sources can be malicious!</string>
     <string name="home_support_title">Support Us</string>
     <string name="home_item_source">Source</string>
-    <string name="home_support_content">Magisk is, and always will be, free, and open source. You can however show us that you care by making a donation.</string>
+    <string name="home_support_content">EnneaMagisk is, and always will be, free, and open source. You can however show us that you care by making a donation.</string>
     <string name="home_installed_version">Installed</string>
     <string name="home_latest_version">Latest</string>
     <string name="invalid_update_channel">Invalid Update Channel</string>
-    <string name="uninstall_magisk_title">Uninstall Magisk</string>
-    <string name="uninstall_magisk_msg">All modules will be disabled/removed!\nRoot will be removed!\nAny internal storage unencrypted through the use of Magisk will be re-encrypted!</string>
+    <string name="uninstall_magisk_title">Uninstall EnneaMagisk</string>
+    <string name="uninstall_magisk_msg">All modules will be disabled/removed!\nRoot will be removed!\nAny internal storage unencrypted through the use of EnneaMagisk will be re-encrypted!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Preserve force encryption</string>
@@ -78,7 +78,7 @@
 
     <!--Logs-->
     <string name="log_data_none">You\'re log-free, try using your root apps more</string>
-    <string name="log_data_magisk_none">Magisk logs are empty, that\'s weird</string>
+    <string name="log_data_magisk_none">EnneaMagisk logs are empty, that\'s weird</string>
     <string name="menuSaveLog">Save log</string>
     <string name="menuClearLog">Clear log now</string>
     <string name="logs_cleared">Log successfully cleared</string>
@@ -126,9 +126,9 @@
     <string name="settings_update_beta">Beta</string>
     <string name="settings_update_custom">Custom</string>
     <string name="settings_update_custom_msg">Insert a custom channel URL</string>
-    <string name="settings_zygisk_summary">Run parts of Magisk in the zygote daemon</string>
+    <string name="settings_zygisk_summary">Run parts of EnneaMagisk in the zygote daemon</string>
     <string name="settings_denylist_title">Enforce DenyList</string>
-    <string name="settings_denylist_summary">Processes on the denylist will have all Magisk modifications reverted</string>
+    <string name="settings_denylist_summary">Processes on the denylist will have all EnneaMagisk modifications reverted</string>
     <string name="settings_denylist_config_title">Configure DenyList</string>
     <string name="settings_denylist_config_summary">Select the processes to be included on the denylist</string>
     <string name="settings_hosts_title">Systemless hosts</string>
@@ -158,13 +158,13 @@
     <string name="isolate_summary">Each root session will have its own isolated namespace</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk Updates</string>
+    <string name="update_channel">EnneaMagisk Updates</string>
     <string name="progress_channel">Progress Notifications</string>
     <string name="updated_channel">Update Complete</string>
     <string name="download_complete">Download complete</string>
     <string name="download_file_error">Error downloading file</string>
-    <string name="magisk_update_title">Magisk Update Available!</string>
-    <string name="updated_title">Magisk Updated</string>
+    <string name="magisk_update_title">EnneaMagisk Update Available!</string>
+    <string name="updated_title">EnneaMagisk Updated</string>
     <string name="updated_text">Tap to open app</string>
 
     <!--Toasts, Dialogs-->
@@ -185,14 +185,14 @@
     <string name="restore_fail">Stock backup does not exist!</string>
     <string name="setup_fail">Setup failed</string>
     <string name="env_fix_title">Requires Additional Setup</string>
-    <string name="env_fix_msg">Your device needs additional setup for Magisk to work properly. Do you want to proceed and reboot?</string>
+    <string name="env_fix_msg">Your device needs additional setup for EnneaMagisk to work properly. Do you want to proceed and reboot?</string>
     <string name="setup_msg">Running environment setup…</string>
-    <string name="unsupport_magisk_title">Unsupported Magisk Version</string>
-    <string name="unsupport_magisk_msg">This version of the app does not support Magisk versions lower than %1$s.\n\nThe app will behave as if no Magisk is installed, please upgrade Magisk as soon as possible.</string>
+    <string name="unsupport_magisk_title">Unsupported EnneaMagisk Version</string>
+    <string name="unsupport_magisk_msg">This version of the app does not support EnneaMagisk versions lower than %1$s.\n\nThe app will behave as if no EnneaMagisk is installed, please upgrade EnneaMagisk as soon as possible.</string>
     <string name="unsupport_general_title">Abnormal State</string>
     <string name="unsupport_system_app_msg">Running this app as a system app is not supported. Please revert the app to a user app.</string>
-    <string name="unsupport_other_su_msg">A \"su\" binary not from Magisk has been detected. Please remove any competing root solution and/or reinstall Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk is installed to external storage. Please move the app to internal storage.</string>
+    <string name="unsupport_other_su_msg">A \"su\" binary not from EnneaMagisk has been detected. Please remove any competing root solution and/or reinstall EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk is installed to external storage. Please move the app to internal storage.</string>
     <string name="external_rw_permission_denied">Grant storage permission to enable this functionality</string>
     <string name="install_unknown_denied">Allow "install unknown apps" to enable this functionality</string>
     <string name="app_not_found">No app found to handle this action</string>

@@ -24,11 +24,11 @@
     <string name="home_support_title">Bizə Dəstək ol</string>
     <string name="home_follow_title">Bizi İzləyin</string>
     <string name="home_item_source">Mənbə</string>
-    <string name="home_support_content">Magisk pulsuzdur və həmişə belə qalacaq. Amma istəsən bizə dəstək ola bilərsən.</string>
+    <string name="home_support_content">EnneaMagisk pulsuzdur və həmişə belə qalacaq. Amma istəsən bizə dəstək ola bilərsən.</string>
     <string name="home_installed_version">Qurulan</string>
     <string name="home_latest_version">Ən son versiya</string>
     <string name="invalid_update_channel">Keçərsiz yeniləmə kanalı</string>
-    <string name="uninstall_magisk_title">Magisk\'i sil</string>
+    <string name="uninstall_magisk_title">EnneaMagisk\'i sil</string>
     <string name="uninstall_magisk_msg">Bütün modullar ləğv olunacaq/silinəcək. Root silinəcək, və əgər hal-hazırda deyilsə, bütün məlumatlarınız potensiyal olaraq şifrələnəcək.</string>
 
     <!--Install-->
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Qeyd yoxdur, root icazəli tətbiqlərdən daha çox istifadə edin</string>
-    <string name="log_data_magisk_none">Qəribədir, Magisk qeydləri boşdur</string>
+    <string name="log_data_magisk_none">Qəribədir, EnneaMagisk qeydləri boşdur</string>
     <string name="menuSaveLog">Qeydləri saxla</string>
     <string name="menuClearLog">Qeydləri sil</string>
     <string name="logs_cleared">Qeydlər silindi</string>
@@ -108,8 +108,8 @@
     <string name="module_state_restore">Bərpa et</string>
     <string name="module_action_install_external">Yaddaşdan yüklə</string>
     <string name="update_available">Yeniləmə Mövcuddur</string>
-    <string name="suspend_text_riru">%1$s açıq olduğundan Magisk modulu dayandırıldı</string>
-    <string name="suspend_text_zygisk">%1$s qapalı olduğu üçün Magisk modulu dayandırıldı</string>
+    <string name="suspend_text_riru">%1$s açıq olduğundan EnneaMagisk modulu dayandırıldı</string>
+    <string name="suspend_text_zygisk">%1$s qapalı olduğu üçün EnneaMagisk modulu dayandırıldı</string>
     <string name="zygisk_module_unloaded">Zygisk modulu uyğunsuzluq səbəbindən açılmadı</string>
     <string name="module_empty">Yüklü modul yoxdur</string>
     <string name="confirm_install">%1$s modulu yüklənsin?</string>
@@ -134,7 +134,7 @@
     <string name="settings_update_custom_msg">Özəl kanal URL\'si daxil et</string>
     <string name="settings_zygisk_summary">Magiskin bəzi hissələrini zygote daemonda aç</string>
     <string name="settings_denylist_title">İstisnaları Məcbur İşlət</string>
-    <string name="settings_denylist_summary">İstisnalar siyahısındakı proseslər Magisk əlavələrini tərsinə çevirəcək</string>
+    <string name="settings_denylist_summary">İstisnalar siyahısındakı proseslər EnneaMagisk əlavələrini tərsinə çevirəcək</string>
     <string name="settings_denylist_config_title">İstisnaları Ayarla</string>
     <string name="settings_denylist_config_summary">İstisnalara yerləşdiriləcək prosesi seçin</string>
     <string name="settings_hosts_title">Sistemsiz hostlar</string>
@@ -164,13 +164,13 @@
     <string name="isolate_summary">Hər kök giriş üçün ayrıca kök adlarfəzası olacaq</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk Yeniləmələri</string>
+    <string name="update_channel">EnneaMagisk Yeniləmələri</string>
     <string name="progress_channel">İrəliləmə Bildirişləri</string>
     <string name="updated_channel">Yeniləmə Bitdi</string>
     <string name="download_complete">Endirmə Bitdi</string>
     <string name="download_file_error">Faylı endirmək münkün olmadı</string>
-    <string name="magisk_update_title">Magisk Yeniləməsi Var!</string>
-    <string name="updated_title">Magisk Yeniləndi</string>
+    <string name="magisk_update_title">EnneaMagisk Yeniləməsi Var!</string>
+    <string name="updated_title">EnneaMagisk Yeniləndi</string>
     <string name="updated_text">Tətbiqi açmaq üçün toxun</string>
 
     <!--Toasts, Dialogs-->
@@ -193,12 +193,12 @@
     <string name="env_fix_title">Əlavə yükləməyə ethiyac var</string>
     <string name="env_fix_msg">Cihazınız Magiskin düzgün işləməsi üçün əlavə yükləməyə ehtiyac duyur. Yenidən başlatmaq istəyirsiniz?</string>
     <string name="setup_msg">Yüklənir…</string>
-    <string name="unsupport_magisk_title">Bu Magisk versiyası dəstəklənmir</string>
-    <string name="unsupport_magisk_msg">Tətbiqin bu versiyası Magiskin %1$s versiyasından aşağıları dəstəkləmir.\n\nTətbiq sanki Magisk heç yoxmuş kimi davranacaq, lütfən Magiski yüksəldin.</string>
+    <string name="unsupport_magisk_title">Bu EnneaMagisk versiyası dəstəklənmir</string>
+    <string name="unsupport_magisk_msg">Tətbiqin bu versiyası Magiskin %1$s versiyasından aşağıları dəstəkləmir.\n\nTətbiq sanki EnneaMagisk heç yoxmuş kimi davranacaq, lütfən Magiski yüksəldin.</string>
     <string name="unsupport_general_title">Anormal Hal</string>
     <string name="unsupport_system_app_msg">Bu tətbiqi sistem tətbiqi kimi açmaq olmur. Onu yenidən istifadəçi tətbiqi etməlisiniz.</string>
     <string name="unsupport_other_su_msg">Magiskdən olmayan \"su\" tapıldı. Lütfən digər kök tətbiqi silin yaxud Magiski yenidən quraşdırın.</string>
-    <string name="unsupport_external_storage_msg">Magisk xarici yaddaşa qurulub. Lütfən tətbiqi daxili yaddaşa keçirin.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk xarici yaddaşa qurulub. Lütfən tətbiqi daxili yaddaşa keçirin.</string>
     <string name="external_rw_permission_denied">Bu funksiyanı işə salmaq üçün yaddaş icazəsi verin</string>
     <string name="post_notifications_denied">Bu funksiyanı işə salmaq üçün bildiriş icazəsi verin</string>
     <string name="install_unknown_denied">"bilinməyən tətbiqləri quraşdır"\ı açsanız bu funksiya işə düşəcək</string>

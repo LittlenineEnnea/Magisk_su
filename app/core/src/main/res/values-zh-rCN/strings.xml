@@ -21,15 +21,15 @@
     <string name="home_package">包名</string>
     <string name="home_app_title">App</string>
     <string name="reinstall">重新安装</string>
-    <string name="home_notice_content">仅从官方 GitHub 页面下载 Magisk。未知来源的文件可能具有恶意行为！</string>
+    <string name="home_notice_content">仅从官方 GitHub 页面下载 EnneaMagisk。未知来源的文件可能具有恶意行为！</string>
     <string name="home_support_title">支持开发</string>
     <string name="home_follow_title">关注我们</string>
     <string name="home_item_source">源代码</string>
-    <string name="home_support_content">Magisk 将一直保持免费且开源，向开发者捐赠以表示支持。</string>
+    <string name="home_support_content">EnneaMagisk 将一直保持免费且开源，向开发者捐赠以表示支持。</string>
     <string name="home_installed_version">当前</string>
     <string name="home_latest_version">最新</string>
     <string name="invalid_update_channel">无效的更新通道</string>
-    <string name="uninstall_magisk_title">卸载 Magisk</string>
+    <string name="uninstall_magisk_title">卸载 EnneaMagisk</string>
     <string name="uninstall_magisk_msg">所有模块将被停用或删除！超级用户权限丢失！\n如果设备尚未加密，用户数据可能被自动加密。</string>
 
     <!--Install-->
@@ -85,7 +85,7 @@
 
     <!--Logs-->
     <string name="log_data_none">没有超级用户权限使用日志</string>
-    <string name="log_data_magisk_none">没有 Magisk 日志</string>
+    <string name="log_data_magisk_none">没有 EnneaMagisk 日志</string>
     <string name="menuSaveLog">保存日志</string>
     <string name="menuClearLog">清空日志</string>
     <string name="logs_cleared">日志已清空</string>
@@ -149,9 +149,9 @@
     <string name="settings_update_debug">调试版</string>
     <string name="settings_update_custom">自定义通道</string>
     <string name="settings_update_custom_msg">自定义通道网址</string>
-    <string name="settings_zygisk_summary">在 Zygote 中运行 Magisk</string>
+    <string name="settings_zygisk_summary">在 Zygote 中运行 EnneaMagisk</string>
     <string name="settings_denylist_title">遵守排除列表</string>
-    <string name="settings_denylist_summary">Magisk 不会修改列表中的进程</string>
+    <string name="settings_denylist_summary">EnneaMagisk 不会修改列表中的进程</string>
     <string name="settings_denylist_config_title">配置排除列表</string>
     <string name="settings_denylist_config_summary">选择加入排除列表的进程</string>
     <string name="settings_hosts_title">Systemless hosts</string>
@@ -197,8 +197,8 @@
     <string name="su_notification_channel">授权通知</string>
     <string name="download_complete">下载完成</string>
     <string name="download_file_error">下载失败</string>
-    <string name="magisk_update_title">Magisk 已发布新版本！</string>
-    <string name="updated_title">Magisk 已完成更新</string>
+    <string name="magisk_update_title">EnneaMagisk 已发布新版本！</string>
+    <string name="updated_title">EnneaMagisk 已完成更新</string>
     <string name="updated_text">点按即可打开应用</string>
     <string name="su_notification_granted_title">已授权超级用户</string>
     <string name="su_notification_denied_title">已拒绝超级用户</string>
@@ -224,15 +224,15 @@
     <string name="restore_fail">原厂 Boot 映像的备份不存在</string>
     <string name="setup_fail">安装失败</string>
     <string name="env_fix_title">需要修复运行环境</string>
-    <string name="env_fix_msg">需要一些额外的安装才能使 Magisk 正常工作。完成后自动重启，是否继续？</string>
-    <string name="env_full_fix_msg">需要重新安装才能使 Magisk 正常工作。请在应用内重新安装，recovery 模式无法正确获取设备信息。</string>
+    <string name="env_fix_msg">需要一些额外的安装才能使 EnneaMagisk 正常工作。完成后自动重启，是否继续？</string>
+    <string name="env_full_fix_msg">需要重新安装才能使 EnneaMagisk 正常工作。请在应用内重新安装，recovery 模式无法正确获取设备信息。</string>
     <string name="setup_msg">正在修复运行环境</string>
-    <string name="unsupport_magisk_title">不支持的 Magisk 版本</string>
-    <string name="unsupport_magisk_msg">应用不支持低于 %1$s 版本的 Magisk，表现为未安装状态。但升级功能可用，请尽快在应用内升级 Magisk。</string>
+    <string name="unsupport_magisk_title">不支持的 EnneaMagisk 版本</string>
+    <string name="unsupport_magisk_msg">应用不支持低于 %1$s 版本的 EnneaMagisk，表现为未安装状态。但升级功能可用，请尽快在应用内升级 EnneaMagisk。</string>
     <string name="unsupport_general_title">异常状态</string>
-    <string name="unsupport_system_app_msg">Magisk 不支持安装为系统应用，请还原为用户应用。</string>
-    <string name="unsupport_other_su_msg">检测到不属于 Magisk 的 su 文件，请删除其他超级用户程序。</string>
-    <string name="unsupport_external_storage_msg">不支持将 Magisk 安装到外置存储卡，请将应用移动回内部存储空间。</string>
+    <string name="unsupport_system_app_msg">EnneaMagisk 不支持安装为系统应用，请还原为用户应用。</string>
+    <string name="unsupport_other_su_msg">检测到不属于 EnneaMagisk 的 su 文件，请删除其他超级用户程序。</string>
+    <string name="unsupport_external_storage_msg">不支持将 EnneaMagisk 安装到外置存储卡，请将应用移动回内部存储空间。</string>
     <string name="external_rw_permission_denied">允许访问存储空间以使用此功能</string>
     <string name="post_notifications_denied">允许发送通知以使用此功能</string>
     <string name="install_unknown_denied">允许安装未知应用以使用此功能</string>

@@ -20,16 +20,16 @@
     <string name="home_package">Pachet</string>
     <string name="home_app_title">Aplicație</string>
 
-    <string name="home_notice_content">Descarcă Magisk NUMAI de pe pagina oficială GitHub. Fișierele din surse necunoscute pot fi rău intenționate!</string>
+    <string name="home_notice_content">Descarcă EnneaMagisk NUMAI de pe pagina oficială GitHub. Fișierele din surse necunoscute pot fi rău intenționate!</string>
     <string name="home_support_title">Sprijină-ne</string>
     <string name="home_follow_title">Urmărește-ne</string>
     <string name="home_item_source">Sursă</string>
-    <string name="home_support_content">Magisk este și va fi întotdeauna gratuit și open-source. Cu toate acestea, ne poți arăta că îți pasă făcând o donație.</string>
+    <string name="home_support_content">EnneaMagisk este și va fi întotdeauna gratuit și open-source. Cu toate acestea, ne poți arăta că îți pasă făcând o donație.</string>
     <string name="home_installed_version">Versiune instalată</string>
     <string name="home_latest_version">Ultima versiune</string>
     <string name="invalid_update_channel">Canal de actualizare nevalid</string>
-    <string name="uninstall_magisk_title">Dezinstalează Magisk</string>
-    <string name="uninstall_magisk_msg">Toate modulele vor fi dezactivate/eliminate!\nRootul va fi eliminat!\nOrice spațiu de stocare intern necriptat prin folosirea Magisk va fi recriptat!</string>
+    <string name="uninstall_magisk_title">Dezinstalează EnneaMagisk</string>
+    <string name="uninstall_magisk_msg">Toate modulele vor fi dezactivate/eliminate!\nRootul va fi eliminat!\nOrice spațiu de stocare intern necriptat prin folosirea EnneaMagisk va fi recriptat!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Păstrează criptarea forțată</string>
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Nu există jurnale, încearcă să folosești ceva mai mult aplicațiile care folosesc root</string>
-    <string name="log_data_magisk_none">Jurnalele Magisk sunt goale, asta-i ciudat</string>
+    <string name="log_data_magisk_none">Jurnalele EnneaMagisk sunt goale, asta-i ciudat</string>
     <string name="menuSaveLog">Salvează jurnalul</string>
     <string name="menuClearLog">Golește jurnalul acum</string>
     <string name="logs_cleared">Jurnal golit cu succes</string>
@@ -134,9 +134,9 @@
     <string name="settings_update_beta">Beta</string>
     <string name="settings_update_custom">Personalizat</string>
     <string name="settings_update_custom_msg">Inserează un URL pentru canal personalizat</string>
-    <string name="settings_zygisk_summary">Rulează părți ale Magisk în daemonul zygote</string>
+    <string name="settings_zygisk_summary">Rulează părți ale EnneaMagisk în daemonul zygote</string>
     <string name="settings_denylist_title">Impune lista de refuzări</string>
-    <string name="settings_denylist_summary">Procesele din lista de refuzări vor avea toate modificările Magisk anulate</string>
+    <string name="settings_denylist_summary">Procesele din lista de refuzări vor avea toate modificările EnneaMagisk anulate</string>
     <string name="settings_denylist_config_title">Configurează lista de refuzări</string>
     <string name="settings_denylist_config_summary">Selectează procesele care vor fi incluse în lista de refuzări</string>
     <string name="settings_hosts_title">Fișier hosts în afara partiției system</string>
@@ -171,13 +171,13 @@
     <string name="isolate_summary">Fiecare sesiune de root va avea propriul spațiu de nume izolat</string>
 
     <!--Notifications-->
-    <string name="update_channel">Actualizări Magisk</string>
+    <string name="update_channel">Actualizări EnneaMagisk</string>
     <string name="progress_channel">Notificări de progres</string>
     <string name="updated_channel">Actualizare finalizată</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_file_error">Eroare la descărcarea fișierului</string>
-    <string name="magisk_update_title">Actualizare Magisk disponibilă!</string>
-    <string name="updated_title">Magisk actualizat</string>
+    <string name="magisk_update_title">Actualizare EnneaMagisk disponibilă!</string>
+    <string name="updated_title">EnneaMagisk actualizat</string>
     <string name="updated_text">Atinge pentru a deschide aplicația</string>
 
     <!--Toasts, Dialogs-->
@@ -198,15 +198,15 @@
     <string name="restore_fail">Nu există backup stock!</string>
     <string name="setup_fail">Configurare eșuată</string>
     <string name="env_fix_title">Necesită configurare suplimentară</string>
-    <string name="env_fix_msg">Dispozitivul are nevoie de configurare suplimentară pentru ca Magisk să funcționeze corect. Vrei să continui și să repornești?</string>
-    <string name="env_full_fix_msg">Dispozitivul are nevoie de rescrierea în memoria flash a Magisk pentru a funcționa corect. Te rugăm să reinstalezi Magisk în cadrul aplicației, modul de recuperare nu poate obține informații corecte despre dispozitiv.</string>
+    <string name="env_fix_msg">Dispozitivul are nevoie de configurare suplimentară pentru ca EnneaMagisk să funcționeze corect. Vrei să continui și să repornești?</string>
+    <string name="env_full_fix_msg">Dispozitivul are nevoie de rescrierea în memoria flash a EnneaMagisk pentru a funcționa corect. Te rugăm să reinstalezi EnneaMagisk în cadrul aplicației, modul de recuperare nu poate obține informații corecte despre dispozitiv.</string>
     <string name="setup_msg">Rulează configurarea mediului…</string>
-    <string name="unsupport_magisk_title">Versiune Magisk nesuportată</string>
-    <string name="unsupport_magisk_msg">Această versiune a aplicației nu suportă versiunile Magisk mai mici de %1$s.\n\nAplicația se va comporta ca și cum Magisk nu este instalat, te rugăm să actualizezi Magisk cât mai curând posibil.</string>
+    <string name="unsupport_magisk_title">Versiune EnneaMagisk nesuportată</string>
+    <string name="unsupport_magisk_msg">Această versiune a aplicației nu suportă versiunile EnneaMagisk mai mici de %1$s.\n\nAplicația se va comporta ca și cum EnneaMagisk nu este instalat, te rugăm să actualizezi EnneaMagisk cât mai curând posibil.</string>
     <string name="unsupport_general_title">Stare anormală</string>
     <string name="unsupport_system_app_msg">Rularea acestei aplicații ca aplicație de sistem nu este suportată. Te rugăm să readuci aplicația într-o aplicație de utilizator.</string>
-    <string name="unsupport_other_su_msg">A fost detectat un binar „su” care nu provine de la Magisk. Te rugăm să elimini orice soluție root concurentă și/sau să reinstalezi Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk este instalat în spațiul de stocare extern. Te rugăm să muți aplicația în spațiul de stocare intern.</string>
+    <string name="unsupport_other_su_msg">A fost detectat un binar „su” care nu provine de la EnneaMagisk. Te rugăm să elimini orice soluție root concurentă și/sau să reinstalezi EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk este instalat în spațiul de stocare extern. Te rugăm să muți aplicația în spațiul de stocare intern.</string>
     <string name="external_rw_permission_denied">Acordă permisiunea de stocare pentru a activa această funcționalitate</string>
     <string name="post_notifications_denied">Acordă permisiunea de notificări pentru a activa această funcționalitate</string>
     <string name="install_unknown_denied">Permite „instalarea de aplicații necunoscute” pentru a activa această funcționalitate</string>

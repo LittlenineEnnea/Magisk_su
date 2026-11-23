@@ -20,14 +20,14 @@
     <string name="home_package">Pakett</string>
     <string name="home_app_title">Rakendus</string>
 
-    <string name="home_notice_content">Laadi Magisk alla vaid ametlikult GitHubi lehelt. Tundmatutest allikatest laaditud failid võivad olla pahatahtlikud!</string>
+    <string name="home_notice_content">Laadi EnneaMagisk alla vaid ametlikult GitHubi lehelt. Tundmatutest allikatest laaditud failid võivad olla pahatahtlikud!</string>
     <string name="home_support_title">Toeta meid</string>
     <string name="home_item_source">Lähtekood</string>
-    <string name="home_support_content">Magisk on ja jääb alati tasuta ning avatud lähtekoodiga kättesaadavaks. Siiski, sa võid meile väikese annetuse näol toetust üles näidata.</string>
+    <string name="home_support_content">EnneaMagisk on ja jääb alati tasuta ning avatud lähtekoodiga kättesaadavaks. Siiski, sa võid meile väikese annetuse näol toetust üles näidata.</string>
     <string name="home_installed_version">Installitud</string>
     <string name="home_latest_version">Viimatine</string>
     <string name="invalid_update_channel">Sobimatu uuenduste kanal</string>
-    <string name="uninstall_magisk_title">Eemalda Magisk</string>
+    <string name="uninstall_magisk_title">Eemalda EnneaMagisk</string>
     <string name="uninstall_magisk_msg">Kõik moodulid keelatakse/eemaldatakse!\nJuurkasutaja eemaldatakse!\nMistahes sisemälu failid, millelt eemaldati Magiski tarbeks krüpteering, krüpteeritakse taas!</string>
 
     <!--Install-->
@@ -185,11 +185,11 @@
     <string name="env_fix_msg">Sinu seade vajab Magiski korralikuks toimimiseks lisaseadistust. Kas soovid jätkata ning seadme taaskäivitada?</string>
     <string name="setup_msg">Käivitan keskkonnaseadistust…</string>
     <string name="unsupport_magisk_title">Mittetoetatud Magiski versioon</string>
-    <string name="unsupport_magisk_msg">See rakenduse versioon ei toeta Magiski versioone, mis on vanemad kui %1$s.\n\nRakendus käitub nii, nagu Magisk ei olekski installitud, palun täienda Magiskit esimesel võimalusel.</string>
+    <string name="unsupport_magisk_msg">See rakenduse versioon ei toeta Magiski versioone, mis on vanemad kui %1$s.\n\nRakendus käitub nii, nagu EnneaMagisk ei olekski installitud, palun täienda Magiskit esimesel võimalusel.</string>
     <string name="unsupport_general_title">Ebanormaalne seisund</string>
     <string name="unsupport_system_app_msg">Selle rakenduse käitamine süsteemirakendusena ei ole toetatud. Palun taasta see kasutajarakenduseks.</string>
-    <string name="unsupport_other_su_msg">Tuvastati \"su\"-binaar, mida ei installinud Magisk. Palun eemalda mistahes konkureeriv juurkasutaja paigaldus ja/või taasinstalli Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk on paigaldatud välismällu. Palun liiguta rakendus sisemällu.</string>
+    <string name="unsupport_other_su_msg">Tuvastati \"su\"-binaar, mida ei installinud EnneaMagisk. Palun eemalda mistahes konkureeriv juurkasutaja paigaldus ja/või taasinstalli EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk on paigaldatud välismällu. Palun liiguta rakendus sisemällu.</string>
     <string name="external_rw_permission_denied">Selle funktsionaalsuse lubamiseks anna mäluruumi haldamise luba</string>
     <string name="app_not_found">Selle tegevuse teostamiseks ei leitud ühtegi rakendust</string>
     <string name="reboot_apply_change">Muudatuste rakendamiseks taaskäivita</string>

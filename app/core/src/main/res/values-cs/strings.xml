@@ -18,13 +18,13 @@
     <string name="not_available">N/A</string>
     <string name="hide">Skrýt</string>    <string name="home_package">Balíček</string>
     <string name="home_app_title">Aplikace</string>    <string name="reinstall">Přeinstalovat</string>
-    <string name="home_notice_content">Stahujte Magisk POUZE z oficiální stránky na GitHubu. Soubory z neznámých zdrojů mohou být škodlivé!</string>
+    <string name="home_notice_content">Stahujte EnneaMagisk POUZE z oficiální stránky na GitHubu. Soubory z neznámých zdrojů mohou být škodlivé!</string>
     <string name="home_support_title">Podpořte nás</string>
     <string name="home_follow_title">Sledujte nás</string>
     <string name="home_item_source">Zdroj</string>
-    <string name="home_support_content">Magisk je a vždy bude zdarma a s otevřeným zdrojovým kódem. Projevit svou podporu nám však můžete přispěním finančního daru.</string>    <string name="home_installed_version">Nainstalováno</string>
+    <string name="home_support_content">EnneaMagisk je a vždy bude zdarma a s otevřeným zdrojovým kódem. Projevit svou podporu nám však můžete přispěním finančního daru.</string>    <string name="home_installed_version">Nainstalováno</string>
     <string name="home_latest_version">Nejnovější</string>
-    <string name="invalid_update_channel">Neplatný kanál aktualizace</string>    <string name="uninstall_magisk_title">Odinstalovat Magisk</string>
+    <string name="invalid_update_channel">Neplatný kanál aktualizace</string>    <string name="uninstall_magisk_title">Odinstalovat EnneaMagisk</string>
     <string name="uninstall_magisk_msg">Všechny moduly budou deaktivovány/odstraněny!\nOprávnění root budou odebrána!\nVeškeré interní úložiště, které nebylo zašifrováno pomocí Magisku, bude znovu zašifrováno!</string>
 
     <!--Install-->
@@ -77,7 +77,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Nemáte žádné protokoly. Vyzkoušejte nějakou aplikaci vyžadující oprávnění SuperUsera</string>
-    <string name="log_data_magisk_none">Protokoly Magisk jsou prázdné. To je zvláštní</string>
+    <string name="log_data_magisk_none">Protokoly EnneaMagisk jsou prázdné. To je zvláštní</string>
     <string name="menuSaveLog">Uložit protokol</string>
     <string name="menuClearLog">Smazat protokol</string>
     <string name="logs_cleared">Protokol byl smazán</string>    <string name="back">Zpět</string>    <string name="enabled">Zapnuto</string>
@@ -183,13 +183,13 @@
     <string name="isolate_summary">Každá relace ROOT má svůj vlastní izolovaný jmenný prostor</string>
 
     <!--Notifications-->
-    <string name="update_channel">Aktualizace Magisk</string>
+    <string name="update_channel">Aktualizace EnneaMagisk</string>
     <string name="progress_channel">Oznámení o průběhu</string>
     <string name="updated_channel">Aktualizace dokončena</string>
     <string name="download_complete">Stahování dokončeno</string>
     <string name="download_file_error">Chyba při stahování souboru</string>
-    <string name="magisk_update_title">Aktualizace Magisk je dostupná!</string>
-    <string name="updated_title">Magisk aktualizován</string>
+    <string name="magisk_update_title">Aktualizace EnneaMagisk je dostupná!</string>
+    <string name="updated_title">EnneaMagisk aktualizován</string>
     <string name="updated_text">Klepnutím otevřete aplikaci</string>
 
     <!--Toasts, Dialogs-->
@@ -211,15 +211,15 @@
     <string name="restore_fail">Původní záloha neexistuje!</string>
     <string name="setup_fail">Nastavení selhalo</string>
     <string name="env_fix_title">Vyžadováno dodatečné nastavení</string>
-    <string name="env_fix_msg">Aby mohl Magisk správně fungovat, je třeba zařízení dodatečně nastavit. Chcete pokračovat a restartovat zařízení?</string>
-    <string name="env_full_fix_msg">Aby vaše zařízení správně fungovalo, potřebuje se Magisk znovu flashnout. Nainstalujte znovu Magisk v aplikaci, režim Recovery nemůže získat správné informace o zařízení.</string>
+    <string name="env_fix_msg">Aby mohl EnneaMagisk správně fungovat, je třeba zařízení dodatečně nastavit. Chcete pokračovat a restartovat zařízení?</string>
+    <string name="env_full_fix_msg">Aby vaše zařízení správně fungovalo, potřebuje se EnneaMagisk znovu flashnout. Nainstalujte znovu EnneaMagisk v aplikaci, režim Recovery nemůže získat správné informace o zařízení.</string>
     <string name="setup_msg">Probíhá nastavení prostředí…</string>
-    <string name="unsupport_magisk_title">Nepodporovaná verze Magisk</string>
-    <string name="unsupport_magisk_msg">Tato verze aplikace nepodporuje Magisk ve verzi nižší než %1$s.\n\nAplikace se bude chovat, jako by žádný Magisk nebyl nainstalován. Aktualizujte prosím Magisk co nejdříve.</string>
+    <string name="unsupport_magisk_title">Nepodporovaná verze EnneaMagisk</string>
+    <string name="unsupport_magisk_msg">Tato verze aplikace nepodporuje EnneaMagisk ve verzi nižší než %1$s.\n\nAplikace se bude chovat, jako by žádný EnneaMagisk nebyl nainstalován. Aktualizujte prosím EnneaMagisk co nejdříve.</string>
     <string name="unsupport_general_title">Abnormální stav</string>
     <string name="unsupport_system_app_msg">Spuštění této aplikace jako systémové, není podporováno. Změňte prosím aplikaci zpět na uživatelskou.</string>
-    <string name="unsupport_other_su_msg">Byl detekován binární soubor \"su\", který nepochází z Magisk. Odeberte jakékoli konkurenční ROOT řešení a/nebo přeinstalujte Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk je nainstalován na externím úložišti. Přesuňte prosím aplikaci do interního úložiště.</string>
+    <string name="unsupport_other_su_msg">Byl detekován binární soubor \"su\", který nepochází z EnneaMagisk. Odeberte jakékoli konkurenční ROOT řešení a/nebo přeinstalujte EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk je nainstalován na externím úložišti. Přesuňte prosím aplikaci do interního úložiště.</string>
     <string name="external_rw_permission_denied">Pro povolení této funkce, povolte oprávnění pro přístup k úložišti</string>
     <string name="post_notifications_denied">Pro povolení této funkce, povolte oznámení</string>
     <string name="install_unknown_denied">Pro povolení této funkce, povolte "instalovat aplikace z neznámých zdrojů"</string>

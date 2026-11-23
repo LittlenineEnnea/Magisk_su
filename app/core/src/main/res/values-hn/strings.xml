@@ -19,16 +19,16 @@
     <string name="hide">Chhupao</string>
     <string name="home_package">Package</string>
     <string name="home_app_title">App</string>
-    <string name="home_notice_content">Hamesha Magisk ko uske official github release source se download karein. Unofficial source ki file khatarnak ho sakti hai.</string>
+    <string name="home_notice_content">Hamesha EnneaMagisk ko uske official github release source se download karein. Unofficial source ki file khatarnak ho sakti hai.</string>
     <string name="home_support_title">Humein Support karo</string>
     <string name="home_follow_title">Humein Karo</string>
     <string name="home_item_source">Source</string>
-    <string name="home_support_content">Magisk hamesha free aur open source rahega. Agar aap support karna chahte ho, toh donation de sakte ho.</string>
+    <string name="home_support_content">EnneaMagisk hamesha free aur open source rahega. Agar aap support karna chahte ho, toh donation de sakte ho.</string>
     <string name="home_installed_version">Jo version install hai</string>
     <string name="home_latest_version">Latest</string>
     <string name="invalid_update_channel">Galat update channel</string>
-    <string name="uninstall_magisk_title">Magisk uninstall karo</string>
-    <string name="uninstall_magisk_msg">Saare modules disable ya remove ho jayenge!\nRoot khatam ho jayega!\nAgar Magisk ne storage ko decrypt kiya tha toh wo phir se encrypt ho jayega!</string>
+    <string name="uninstall_magisk_title">EnneaMagisk uninstall karo</string>
+    <string name="uninstall_magisk_msg">Saare modules disable ya remove ho jayenge!\nRoot khatam ho jayega!\nAgar EnneaMagisk ne storage ko decrypt kiya tha toh wo phir se encrypt ho jayega!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Force encryption ko preserve karo</string>
@@ -133,9 +133,9 @@
     <string name="settings_update_debug">Debug</string>
     <string name="settings_update_custom">Custom</string>
     <string name="settings_update_custom_msg">Apna custom channel URL daaloL</string>
-    <string name="settings_zygisk_summary">Magisk ke kuch parts ko Zygote daemon mein run karo</string>
+    <string name="settings_zygisk_summary">EnneaMagisk ke kuch parts ko Zygote daemon mein run karo</string>
     <string name="settings_denylist_title">DenyList enforce karo</string>
-    <string name="settings_denylist_summary">DenyList mein jo processes hain, unpe Magisk ka effect hata diya jayega</string>
+    <string name="settings_denylist_summary">DenyList mein jo processes hain, unpe EnneaMagisk ka effect hata diya jayega</string>
     <string name="settings_denylist_config_title">DenyList set karo</string>
     <string name="settings_denylist_config_summary">Kaunse process DenyList mein daalne hain, select karo</string>
     <string name="settings_hosts_title">Systemless hosts</string>
@@ -170,13 +170,13 @@
     <string name="isolate_summary">Har root session ka apna alag isolated namespace hoga</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk updates</string>
+    <string name="update_channel">EnneaMagisk updates</string>
     <string name="progress_channel">Progress notifications</string>
     <string name="updated_channel">Update ho gaya</string>
     <string name="download_complete">Download ho gaya</string>
     <string name="download_file_error">File download karne mein error aaya</string>
-    <string name="magisk_update_title">Magisk ka naya update available hai!</string>
-    <string name="updated_title">Magisk update ho gaya</string>
+    <string name="magisk_update_title">EnneaMagisk ka naya update available hai!</string>
+    <string name="updated_title">EnneaMagisk update ho gaya</string>
     <string name="updated_text">App open karne ke liye tap karo</string>
 
     <!--Toasts, Dialogs-->
@@ -198,15 +198,15 @@
     <string name="restore_fail">Stock backup available nahi hai!</string>
     <string name="setup_fail">Setup fail ho gaya</string>
     <string name="env_fix_title">Iske liye thoda extra setup chahiye</string>
-    <string name="env_fix_msg">Magisk ko sahi se chalane ke liye thoda aur setup karna padega. Kya aap proceed karke device reboot karna chahte ho?</string>
-    <string name="env_full_fix_msg">Magisk ko properly chalane ke liye aapko usse dubara flash karna padega. App ke andar se Magisk reinstall karo, kyunki Recovery mode sahi device info nahi de pata.</string>
+    <string name="env_fix_msg">EnneaMagisk ko sahi se chalane ke liye thoda aur setup karna padega. Kya aap proceed karke device reboot karna chahte ho?</string>
+    <string name="env_full_fix_msg">EnneaMagisk ko properly chalane ke liye aapko usse dubara flash karna padega. App ke andar se EnneaMagisk reinstall karo, kyunki Recovery mode sahi device info nahi de pata.</string>
     <string name="setup_msg">Environment setup chal raha hai…</string>
-    <string name="unsupport_magisk_title">Magisk version supported nahi hain</string>
-    <string name="unsupport_magisk_msg">Is app version ko %1$s se purani Magisk versions support nahi karti.\n\nApp aise behave karega jaise Magisk install hi nahi hai. Jaldi se Magisk ko update karo.</string>
+    <string name="unsupport_magisk_title">EnneaMagisk version supported nahi hain</string>
+    <string name="unsupport_magisk_msg">Is app version ko %1$s se purani EnneaMagisk versions support nahi karti.\n\nApp aise behave karega jaise EnneaMagisk install hi nahi hai. Jaldi se EnneaMagisk ko update karo.</string>
     <string name="unsupport_general_title">System thoda alag behave kar raha hai</string>
     <string name="unsupport_system_app_msg">App ko system app bana ke chalana supported nahi hai. Please app ko wapas user app bana do.</string>
-    <string name="unsupport_other_su_msg">Pehle doosri root method hatao ya Magisk dobara install karo.</string>
-    <string name="unsupport_external_storage_msg">Magisk external storage pe installed hai. App ko internal storage mein move karo.</string>
+    <string name="unsupport_other_su_msg">Pehle doosri root method hatao ya EnneaMagisk dobara install karo.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk external storage pe installed hai. App ko internal storage mein move karo.</string>
     <string name="external_rw_permission_denied">Iss feature ko enable karne ke liye storage permission allow karo</string>
     <string name="post_notifications_denied">Is feature ke liye notifications permission allow karo</string>
     <string name="install_unknown_denied">\"Install unknown apps\" ki permission allow karo taaki ye feature kaam kar sakey</string>

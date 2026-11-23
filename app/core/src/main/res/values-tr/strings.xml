@@ -18,13 +18,13 @@
     <string name="not_available">Yok</string>
     <string name="hide">Gizle</string>    <string name="home_package">Paket</string>
     <string name="home_app_title">Uygulama</string>    <string name="reinstall">Yeniden Yükle</string>
-    <string name="home_notice_content">Magisk\'i SADECE resmi GitHub sayfasından indirin. Bilinmeyen kaynaklardan alınan dosyalar kötü amaçlı olabilir!</string>
+    <string name="home_notice_content">EnneaMagisk\'i SADECE resmi GitHub sayfasından indirin. Bilinmeyen kaynaklardan alınan dosyalar kötü amaçlı olabilir!</string>
     <string name="home_support_title">Bizi Destekleyin</string>
     <string name="home_follow_title">Bizi Takip Edin</string>
     <string name="home_item_source">Kaynak</string>
-    <string name="home_support_content">Magisk her zaman ücretsiz ve açık kaynaklı kalacaktır. Ancak bağış yaparak bize destek olduğunuzu gösterebilirsiniz.</string>    <string name="home_installed_version">Yüklü</string>
+    <string name="home_support_content">EnneaMagisk her zaman ücretsiz ve açık kaynaklı kalacaktır. Ancak bağış yaparak bize destek olduğunuzu gösterebilirsiniz.</string>    <string name="home_installed_version">Yüklü</string>
     <string name="home_latest_version">En Son</string>
-    <string name="invalid_update_channel">Geçersiz güncelleme kanalı</string>    <string name="uninstall_magisk_title">Magisk\'i Kaldır</string>
+    <string name="invalid_update_channel">Geçersiz güncelleme kanalı</string>    <string name="uninstall_magisk_title">EnneaMagisk\'i Kaldır</string>
     <string name="uninstall_magisk_msg">Tüm modüller devre dışı bırakılacak/kaldırılacak!\nRoot kaldırılacak!\nMagisk kullanımıyla şifresi çözülen tüm dahili depolama birimleri yeniden şifrelenecek!</string>
 
     <!--Install-->
@@ -77,7 +77,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Günlüğünüz boş. Root uygulamalarınızı daha fazla kullanmayı deneyin.</string>
-    <string name="log_data_magisk_none">Magisk günlükleri boş, bu çok garip.</string>
+    <string name="log_data_magisk_none">EnneaMagisk günlükleri boş, bu çok garip.</string>
     <string name="menuSaveLog">Günlüğü kaydet</string>
     <string name="menuClearLog">Günlüğü şimdi temizle</string>
     <string name="logs_cleared">Günlük başarıyla temizlendi</string>    <string name="back">Geri</string>    <string name="enabled">Etkin</string>
@@ -139,9 +139,9 @@
     <string name="settings_update_debug">Hata Ayıklama (Debug)</string>
     <string name="settings_update_custom">Özel</string>
     <string name="settings_update_custom_msg">Özel bir kanal URL\'si girin</string>
-    <string name="settings_zygisk_summary">Magisk\'in bazı kısımlarını Zygote arka plan yordamında çalıştırın</string>
+    <string name="settings_zygisk_summary">EnneaMagisk\'in bazı kısımlarını Zygote arka plan yordamında çalıştırın</string>
     <string name="settings_denylist_title">Reddetme Listesini Zorla</string>
-    <string name="settings_denylist_summary">Reddetme listesindeki işlemler için tüm Magisk değişiklikleri geri alınacaktır</string>
+    <string name="settings_denylist_summary">Reddetme listesindeki işlemler için tüm EnneaMagisk değişiklikleri geri alınacaktır</string>
     <string name="settings_denylist_config_title">Reddetme Listesini Yapılandır</string>
     <string name="settings_denylist_config_summary">Reddetme listesine eklenecek işlemleri seçin</string>
     <string name="settings_hosts_title">Sistemsiz (Systemless) hosts</string>
@@ -183,13 +183,13 @@
     <string name="isolate_summary">Her root oturumunun kendi yalıtılmış ad alanı olacaktır</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk güncellemeleri</string>
+    <string name="update_channel">EnneaMagisk güncellemeleri</string>
     <string name="progress_channel">İlerleme bildirimleri</string>
     <string name="updated_channel">Güncelleme tamamlandı</string>
     <string name="download_complete">İndirme tamamlandı</string>
     <string name="download_file_error">Dosya indirilirken hata oluştu</string>
-    <string name="magisk_update_title">Magisk güncellemesi mevcut!</string>
-    <string name="updated_title">Magisk güncellendi</string>
+    <string name="magisk_update_title">EnneaMagisk güncellemesi mevcut!</string>
+    <string name="updated_title">EnneaMagisk güncellendi</string>
     <string name="updated_text">Uygulamayı açmak için dokunun</string>
 
     <!--Toasts, Dialogs-->
@@ -211,15 +211,15 @@
     <string name="restore_fail">Orijinal (Stock) yedek bulunmuyor!</string>
     <string name="setup_fail">Kurulum başarısız</string>
     <string name="env_fix_title">Ek kurulum gerektiriyor</string>
-    <string name="env_fix_msg">Cihazınızın Magisk\'in düzgün çalışabilmesi için ek kuruluma ihtiyacı var. Devam edip yeniden başlatmak istiyor musunuz?</string>
-    <string name="env_full_fix_msg">Magisk\'in düzgün çalışması için cihazınıza yeniden flaşlanması gerekiyor. Lütfen Magisk\'i uygulama içinden yeniden yükleyin, Kurtarma (Recovery) modu doğru cihaz bilgisini alamıyor.</string>
+    <string name="env_fix_msg">Cihazınızın EnneaMagisk\'in düzgün çalışabilmesi için ek kuruluma ihtiyacı var. Devam edip yeniden başlatmak istiyor musunuz?</string>
+    <string name="env_full_fix_msg">EnneaMagisk\'in düzgün çalışması için cihazınıza yeniden flaşlanması gerekiyor. Lütfen EnneaMagisk\'i uygulama içinden yeniden yükleyin, Kurtarma (Recovery) modu doğru cihaz bilgisini alamıyor.</string>
     <string name="setup_msg">Ortam kurulumu çalıştırılıyor…</string>
-    <string name="unsupport_magisk_title">Desteklenmeyen Magisk sürümü</string>
-    <string name="unsupport_magisk_msg">Uygulamanın bu sürümü %1$s sürümünden daha eski Magisk sürümlerini desteklemiyor.\n\nUygulama, Magisk hiç yüklenmemiş gibi davranacaktır. Lütfen Magisk\'i en kısa sürede güncelleyin.</string>
+    <string name="unsupport_magisk_title">Desteklenmeyen EnneaMagisk sürümü</string>
+    <string name="unsupport_magisk_msg">Uygulamanın bu sürümü %1$s sürümünden daha eski EnneaMagisk sürümlerini desteklemiyor.\n\nUygulama, EnneaMagisk hiç yüklenmemiş gibi davranacaktır. Lütfen EnneaMagisk\'i en kısa sürede güncelleyin.</string>
     <string name="unsupport_general_title">Anormal durum</string>
     <string name="unsupport_system_app_msg">Bu uygulamayı bir sistem uygulaması olarak çalıştırmak desteklenmez. Lütfen uygulamayı kullanıcı uygulamasına dönüştürün.</string>
-    <string name="unsupport_other_su_msg">Magisk\'e ait olmayan bir \"su\" ikili dosyası algılandı. Lütfen rakip root çözümlerini kaldırın ve/veya Magisk\'i yeniden yükleyin.</string>
-    <string name="unsupport_external_storage_msg">Magisk harici depolamaya yüklenmiş. Lütfen uygulamayı dahili depolamaya taşıyın.</string>
+    <string name="unsupport_other_su_msg">EnneaMagisk\'e ait olmayan bir \"su\" ikili dosyası algılandı. Lütfen rakip root çözümlerini kaldırın ve/veya EnneaMagisk\'i yeniden yükleyin.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk harici depolamaya yüklenmiş. Lütfen uygulamayı dahili depolamaya taşıyın.</string>
     <string name="external_rw_permission_denied">Bu işlevi etkinleştirmek için depolama izni verin</string>
     <string name="post_notifications_denied">Bu işlevi etkinleştirmek için bildirim izni verin</string>
     <string name="install_unknown_denied">Bu işlevi etkinleştirmek için \"Bilinmeyen uygulamaları yükle\" iznini verin</string>

@@ -20,15 +20,15 @@
     <string name="home_package">Имя пакета</string>
     <string name="home_app_title">Приложение</string>
 
-    <string name="home_notice_content">Скачивайте Magisk только из официального репозитория на GitHub. Файлы из других источников могут содержать вредоносный код!</string>
+    <string name="home_notice_content">Скачивайте EnneaMagisk только из официального репозитория на GitHub. Файлы из других источников могут содержать вредоносный код!</string>
     <string name="home_support_title">Поддержите нас</string>
     <string name="home_follow_title">Подпишитесь</string>
     <string name="home_item_source">Исходный код</string>
-    <string name="home_support_content">Magisk был и всегда будет бесплатным и открытым проектом. Однако Вы всегда можете поддержать нас, отправив небольшое пожертвование.</string>
+    <string name="home_support_content">EnneaMagisk был и всегда будет бесплатным и открытым проектом. Однако Вы всегда можете поддержать нас, отправив небольшое пожертвование.</string>
     <string name="home_installed_version">Текущая версия</string>
     <string name="home_latest_version">Последняя версия</string>
     <string name="invalid_update_channel">Некорректный канал обновлений</string>
-    <string name="uninstall_magisk_title">Удаление Magisk</string>
+    <string name="uninstall_magisk_title">Удаление EnneaMagisk</string>
     <string name="uninstall_magisk_msg">Все модули будут отключены либо удалены!\nRoot-доступ будет недоступен!\nБудет активировано шифрование /data (если отключалось при установке)!</string>
 
     <!--Install-->
@@ -42,7 +42,7 @@
     <string name="manager_download_install">Нажмите для установки</string>
     <string name="direct_install">Автоматическая установка (рекомендуется)</string>
     <string name="install_inactive_slot">Установка во второй слот (после OTA-обновления)</string>
-    <string name="install_inactive_slot_msg">Ваше устройство будет принудительно перезагружено в неактивный (противоположный) слот!\nИспользуйте эту опцию только при интеграции Magisk после OTA-обновления!\nПродолжить?</string>
+    <string name="install_inactive_slot_msg">Ваше устройство будет принудительно перезагружено в неактивный (противоположный) слот!\nИспользуйте эту опцию только при интеграции EnneaMagisk после OTA-обновления!\nПродолжить?</string>
     <string name="setup_title">Расширенная установка</string>
     <string name="reboot_delay_toast">Перезагрузка через 5 секунд…</string>
     <string name="flash_screen_title">Установка</string>
@@ -133,9 +133,9 @@
     <string name="settings_update_beta">Beta канал</string>
     <string name="settings_update_custom">Сторонний канал</string>
     <string name="settings_update_custom_msg">Укажите ссылку</string>
-    <string name="settings_zygisk_summary">Запускать компоненты Magisk в zygote процессе</string>
+    <string name="settings_zygisk_summary">Запускать компоненты EnneaMagisk в zygote процессе</string>
     <string name="settings_denylist_title">Активировать DenyList</string>
-    <string name="settings_denylist_summary">Все изменения, внесённые Magisk-ом, будут скрыты от процессов, отмеченных в DenyList</string>
+    <string name="settings_denylist_summary">Все изменения, внесённые EnneaMagisk-ом, будут скрыты от процессов, отмеченных в DenyList</string>
     <string name="settings_denylist_config_title">Настройка DenyList</string>
     <string name="settings_denylist_config_summary">Отметьте процессы для скрытия в DenyList</string>
     <string name="settings_hosts_title">Внесистемный hosts файл</string>
@@ -170,13 +170,13 @@
     <string name="isolate_summary">Сессии суперпользователя используют изолированные пространства имён</string>
 
     <!--Notifications-->
-    <string name="update_channel">Обновление Magisk</string>
+    <string name="update_channel">Обновление EnneaMagisk</string>
     <string name="progress_channel">Уведомления о прогрессе</string>
     <string name="updated_channel">Обновление завершено</string>
     <string name="download_complete">Загрузка завершена</string>
     <string name="download_file_error">Ошибка загрузки файла</string>
-    <string name="magisk_update_title">Доступно обновление Magisk!</string>
-    <string name="updated_title">Magisk обновлён</string>
+    <string name="magisk_update_title">Доступно обновление EnneaMagisk!</string>
+    <string name="updated_title">EnneaMagisk обновлён</string>
     <string name="updated_text">Нажмите, чтобы открыть</string>
 
     <!--Toasts, Dialogs-->
@@ -197,14 +197,14 @@
     <string name="restore_fail">Резервная копия отсутствует!</string>
     <string name="setup_fail">Ошибка установки</string>
     <string name="env_fix_title">Требуется расширенная установка</string>
-    <string name="env_fix_msg">Требуется расширенная установка Magisk для корректной работы. Продолжить и выполнить перезагрузку?</string>
-    <string name="env_full_fix_msg">Необходимо переустановить Magisk для корректной работы на вашем устройстве. Пожалуйста, переустановите Magisk в самом приложении (не из recovery).</string>
+    <string name="env_fix_msg">Требуется расширенная установка EnneaMagisk для корректной работы. Продолжить и выполнить перезагрузку?</string>
+    <string name="env_full_fix_msg">Необходимо переустановить EnneaMagisk для корректной работы на вашем устройстве. Пожалуйста, переустановите EnneaMagisk в самом приложении (не из recovery).</string>
     <string name="setup_msg">Настройка рабочей среды…</string>
-    <string name="unsupport_magisk_title">Неподдерживаемая версия Magisk</string>
-    <string name="unsupport_magisk_msg">Эта версия приложения Magisk не поддерживает версию Magisk ниже %1$s.\n\nПриложение будет работать так, словно Magisk не установлен, пожалуйста, обновите Magisk как можно скорее.</string>
+    <string name="unsupport_magisk_title">Неподдерживаемая версия EnneaMagisk</string>
+    <string name="unsupport_magisk_msg">Эта версия приложения EnneaMagisk не поддерживает версию EnneaMagisk ниже %1$s.\n\nПриложение будет работать так, словно EnneaMagisk не установлен, пожалуйста, обновите EnneaMagisk как можно скорее.</string>
     <string name="unsupport_general_title">Неподдерживаемые условия</string>
     <string name="unsupport_system_app_msg">Запуск приложения в качестве системного невозможен. Пожалуйста, переустановите его как пользовательское.</string>
-    <string name="unsupport_other_su_msg">Обнаружен неподдерживаемый бинарный файл \"su\". Пожалуйста, удалите сторонний провайдер Root-прав и/или переустановите Magisk.</string>
+    <string name="unsupport_other_su_msg">Обнаружен неподдерживаемый бинарный файл \"su\". Пожалуйста, удалите сторонний провайдер Root-прав и/или переустановите EnneaMagisk.</string>
     <string name="unsupport_external_storage_msg">Приложение установлено во внешнее хранилище. Пожалуйста, переустановите его во внутреннее хранилище.</string>
     <string name="external_rw_permission_denied">Предоставьте разрешение на доступ к хранилищу</string>
     <string name="post_notifications_denied">Предоставьте разрешение на отправку уведомлений</string>

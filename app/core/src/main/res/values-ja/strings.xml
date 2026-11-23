@@ -20,15 +20,15 @@
     <string name="home_package">パッケージ ID </string>
     <string name="home_app_title">アプリ</string>
 
-    <string name="home_notice_content">Magisk は必ず公式の GitHub ページからダウンロードしてください。その他の提供元では悪意あるコードを含んでいる可能性があります!</string>
+    <string name="home_notice_content">EnneaMagisk は必ず公式の GitHub ページからダウンロードしてください。その他の提供元では悪意あるコードを含んでいる可能性があります!</string>
     <string name="home_support_title">サポートする</string>
     <string name="home_follow_title">フォローする</string>
     <string name="home_item_source">ソース</string>
-    <string name="home_support_content">Magisk はフリーでオープンソースです。寄付を送ると､ Magisk の開発を支援することができます。</string>
+    <string name="home_support_content">EnneaMagisk はフリーでオープンソースです。寄付を送ると､ EnneaMagisk の開発を支援することができます。</string>
     <string name="home_installed_version">インストール済</string>
     <string name="home_latest_version">最新版</string>
     <string name="invalid_update_channel">不正な更新チャンネルです</string>
-    <string name="uninstall_magisk_title">Magisk のアンインストール</string>
+    <string name="uninstall_magisk_title">EnneaMagisk のアンインストール</string>
     <string name="uninstall_magisk_msg">すべてのモジュールが無効化/削除されます。\nアンインストール後は root が削除され､ストレージが暗号化されていない場合は暗号化される場合があります。</string>
 
     <!--Install-->
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">ログはありません。スーパーユーザー権限を使用するアプリをもっと使ってみてください</string>
-    <string name="log_data_magisk_none">おかしなことに Magisk のログは空です</string>
+    <string name="log_data_magisk_none">おかしなことに EnneaMagisk のログは空です</string>
     <string name="menuSaveLog">ログを保存</string>
     <string name="menuClearLog">ログを消去</string>
     <string name="logs_cleared">ログを消去しました</string>
@@ -128,9 +128,9 @@
     <string name="settings_update_beta">ベータ版</string>
     <string name="settings_update_custom">カスタム</string>
     <string name="settings_update_custom_msg">カスタム URL を入力</string>
-    <string name="settings_zygisk_summary">Magisk の一部を Zygote デーモン上で実行します</string>
+    <string name="settings_zygisk_summary">EnneaMagisk の一部を Zygote デーモン上で実行します</string>
     <string name="settings_denylist_title">DenyList を適用</string>
-    <string name="settings_denylist_summary">DenyList 内のプロセスは Magisk の変更がすべて戻されます</string>
+    <string name="settings_denylist_summary">DenyList 内のプロセスは EnneaMagisk の変更がすべて戻されます</string>
     <string name="settings_denylist_config_title">DenyList を構成</string>
     <string name="settings_denylist_config_summary">DenyList に含めるプロセスを選択します</string>
     <string name="settings_hosts_title">Systemless hosts</string>
@@ -163,13 +163,13 @@
     <string name="isolate_summary">root セッション毎に分離された名前空間を使用します</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk の更新</string>
+    <string name="update_channel">EnneaMagisk の更新</string>
     <string name="progress_channel">進捗通知</string>
     <string name="updated_channel">更新完了</string>
     <string name="download_complete">ダウンロード完了</string>
     <string name="download_file_error">ダウンロード中にエラーが発生しました</string>
-    <string name="magisk_update_title">Magisk の更新があります！</string>
-    <string name="updated_title">Magisk を更新しました</string>
+    <string name="magisk_update_title">EnneaMagisk の更新があります！</string>
+    <string name="updated_title">EnneaMagisk を更新しました</string>
     <string name="updated_text">タップでアプリを開きます</string>
 
     <!--Toasts, Dialogs-->
@@ -190,14 +190,14 @@
     <string name="restore_fail">Stock のバックアップがありません！</string>
     <string name="setup_fail">セットアップに失敗しました</string>
     <string name="env_fix_title">追加のセットアップが必要です</string>
-    <string name="env_fix_msg">Magisk を正常に動作させるためには追加のセットアップが必要です。今すぐ再起動しますか？</string>
+    <string name="env_fix_msg">EnneaMagisk を正常に動作させるためには追加のセットアップが必要です。今すぐ再起動しますか？</string>
     <string name="setup_msg">追加セットアップを実行中…</string>
-    <string name="unsupport_magisk_title">対応していない Magisk バージョンです</string>
-    <string name="unsupport_magisk_msg">このバージョンのアプリではバージョン %1$s 以下の Magisk に対応していません。\n\nアプリで Magisk を使えないため、すぐに Magisk を更新してください</string>
+    <string name="unsupport_magisk_title">対応していない EnneaMagisk バージョンです</string>
+    <string name="unsupport_magisk_msg">このバージョンのアプリではバージョン %1$s 以下の EnneaMagisk に対応していません。\n\nアプリで EnneaMagisk を使えないため、すぐに EnneaMagisk を更新してください</string>
     <string name="unsupport_general_title">異常な状態です</string>
     <string name="unsupport_system_app_msg">このアプリをシステムアプリとして起動することはサポートされていません。ユーザーアプリに戻してください。</string>
-    <string name="unsupport_other_su_msg">Magisk 以外の \"su\" バイナリが検出されました。競合する root 権限取得ソフトを削除し、Magisk をインストールし直してください。</string>
-    <string name="unsupport_external_storage_msg">Magisk が外部ストレージにインストールされています。内部ストレージに移動してください。</string>
+    <string name="unsupport_other_su_msg">EnneaMagisk 以外の \"su\" バイナリが検出されました。競合する root 権限取得ソフトを削除し、EnneaMagisk をインストールし直してください。</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk が外部ストレージにインストールされています。内部ストレージに移動してください。</string>
     <string name="external_rw_permission_denied">この機能を有効にするにはストレージ権限を許可してください</string>
     <string name="post_notifications_denied">この機能を有効化するには権限を許可してください</string>
     <string name="install_unknown_denied">この機能を有効化するには、不明なソースからのインストールを許可してください</string>

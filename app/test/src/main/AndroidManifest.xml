@@ -13,7 +13,7 @@
     </application>
 
     <instrumentation
-        android:name="com.topjohnwu.magisk.test.AppTestRunner"
-        android:targetPackage="com.topjohnwu.magisk" />
+        android:name="meow.ennea.magisk.test.AppTestRunner"
+        android:targetPackage="meow.ennea.magisk" />
 
 </manifest>

@@ -20,16 +20,16 @@
     <string name="home_package">Paketas</string>
     <string name="home_app_title">Programėlė</string>
 
-    <string name="home_notice_content">Magisk siųskites TIK iš oficialiojo GitHub puslapio. Failai iš nežinomų šaltinių gali būti kenkėjiški!</string>
+    <string name="home_notice_content">EnneaMagisk siųskites TIK iš oficialiojo GitHub puslapio. Failai iš nežinomų šaltinių gali būti kenkėjiški!</string>
     <string name="home_support_title">Palaikykite mus</string>
     <string name="home_follow_title">Sekite mus</string>
     <string name="home_item_source">Pirminis kodas</string>
-    <string name="home_support_content">Magisk yra ir visada bus nemokamas, atvirojo kodo. Tačiau galite paaukoti pinigų, jei norite parodyti, kad jums rūpi.</string>
+    <string name="home_support_content">EnneaMagisk yra ir visada bus nemokamas, atvirojo kodo. Tačiau galite paaukoti pinigų, jei norite parodyti, kad jums rūpi.</string>
     <string name="home_installed_version">Įdiegta versija</string>
     <string name="home_latest_version">Naujausia versija</string>
     <string name="invalid_update_channel">Neteisingas naujinimų kanalas</string>
-    <string name="uninstall_magisk_title">Pašalinti Magisk</string>
-    <string name="uninstall_magisk_msg">Visi moduliai bus išjungti/pašalinti!\nRoot prieiga bus pašalinta!\nVidinė atmintis, iššifruota su Magisk, bus iš naujo užšifruota!</string>
+    <string name="uninstall_magisk_title">Pašalinti EnneaMagisk</string>
+    <string name="uninstall_magisk_msg">Visi moduliai bus išjungti/pašalinti!\nRoot prieiga bus pašalinta!\nVidinė atmintis, iššifruota su EnneaMagisk, bus iš naujo užšifruota!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Neišjungti priverstinio šifravimo</string>
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Žurnalas tuščias</string>
-    <string name="log_data_magisk_none">Magisk žurnalas yra tuščias, keistoka</string>
+    <string name="log_data_magisk_none">EnneaMagisk žurnalas yra tuščias, keistoka</string>
     <string name="menuSaveLog">Išsaugoti žurnalą</string>
     <string name="menuClearLog">Valyti žurnalą</string>
     <string name="logs_cleared">Žurnalas išvalytas</string>
@@ -130,9 +130,9 @@
     <string name="settings_update_beta">Beta</string>
     <string name="settings_update_custom">Tinkintas</string>
     <string name="settings_update_custom_msg">Įdėkite tinkinto kanalo URL</string>
-    <string name="settings_zygisk_summary">Vykdyti Magisk dalis zygote tarnyboje</string>
+    <string name="settings_zygisk_summary">Vykdyti EnneaMagisk dalis zygote tarnyboje</string>
     <string name="settings_denylist_title">Aktyvinti DenyList</string>
-    <string name="settings_denylist_summary">Visos procesų, esančių denylist, Magisk modifikacijos bus atkurtos</string>
+    <string name="settings_denylist_summary">Visos procesų, esančių denylist, EnneaMagisk modifikacijos bus atkurtos</string>
     <string name="settings_denylist_config_title">Konfigūruoti DenyList</string>
     <string name="settings_denylist_config_summary">Pasirinkite procesus, kuriuos norite įtraukti į denylist</string>
     <string name="settings_hosts_title">Basisteminis hosts</string>
@@ -162,13 +162,13 @@
     <string name="isolate_summary">Kiekviena root sesija turės savo izoliuotą pavadinimų erdvę</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk naujinimai</string>
+    <string name="update_channel">EnneaMagisk naujinimai</string>
     <string name="progress_channel">Progreso pranešimai</string>
     <string name="updated_channel">Naujinimas baigtas</string>
     <string name="download_complete">Atsisiuntimas baigtas</string>
     <string name="download_file_error">Klaida atsisiunčiant failą</string>
-    <string name="magisk_update_title">Prieinamas Magisk naujinimas!</string>
-    <string name="updated_title">Magisk atnaujintas</string>
+    <string name="magisk_update_title">Prieinamas EnneaMagisk naujinimas!</string>
+    <string name="updated_title">EnneaMagisk atnaujintas</string>
     <string name="updated_text">Bakstelėkite, kad atidarytumėte programėlę</string>
 
     <!--Toasts, Dialogs-->
@@ -189,15 +189,15 @@
     <string name="restore_fail">Nėra atsarginės kopijos!</string>
     <string name="setup_fail">Sąranka nepavyko</string>
     <string name="env_fix_title">Reikalinga išplėstinė sąranka</string>
-    <string name="env_fix_msg">Jūsų įrenginiui reikalinga išplėstinė sąranka, kad Magisk veiktų tinkamai. Norite tęsti ir įrenginį paleisti iš naujo?</string>
-    <string name="env_full_fix_msg">Jūsų įrenginiui reikia iš naujo įdiegti Magisk, kad jis veiktų tinkamai. Iš naujo įdiekite Magisk su programėle, atkūrimo režimas negali gauti teisingos įrenginio informacijos.</string>
+    <string name="env_fix_msg">Jūsų įrenginiui reikalinga išplėstinė sąranka, kad EnneaMagisk veiktų tinkamai. Norite tęsti ir įrenginį paleisti iš naujo?</string>
+    <string name="env_full_fix_msg">Jūsų įrenginiui reikia iš naujo įdiegti EnneaMagisk, kad jis veiktų tinkamai. Iš naujo įdiekite EnneaMagisk su programėle, atkūrimo režimas negali gauti teisingos įrenginio informacijos.</string>
     <string name="setup_msg">Vykdoma Running aplinkos sąranka…</string>
-    <string name="unsupport_magisk_title">Nepalaikoma Magisk versija</string>
-    <string name="unsupport_magisk_msg">Ši programėlės versija nepalaiko Magisk versijų, žemesnių už %1$s.\n\nProgramėlė veiks taip, lyg Magisk yra neįdiegtas. Kuo greičiau atnaujinkite Magisk.</string>
+    <string name="unsupport_magisk_title">Nepalaikoma EnneaMagisk versija</string>
+    <string name="unsupport_magisk_msg">Ši programėlės versija nepalaiko EnneaMagisk versijų, žemesnių už %1$s.\n\nProgramėlė veiks taip, lyg EnneaMagisk yra neįdiegtas. Kuo greičiau atnaujinkite EnneaMagisk.</string>
     <string name="unsupport_general_title">Nenormali būsena</string>
     <string name="unsupport_system_app_msg">Šios programėlės vykdymas kaip sistemos programėlės yra nepalaikomas. Nustatykite ją atgal į naudotojo programėlę.</string>
-    <string name="unsupport_other_su_msg">Aptiktas dvejetainis failas \"su\" ne iš Magisk. Pašalinkite pašalinį root teisių tiekėją ir/arba iš naujo įdiekite Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk yra įdiegtas išorinėje saugykloje. Perkelkite programėlę į vidinę saugyklą.</string>
+    <string name="unsupport_other_su_msg">Aptiktas dvejetainis failas \"su\" ne iš EnneaMagisk. Pašalinkite pašalinį root teisių tiekėją ir/arba iš naujo įdiekite EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk yra įdiegtas išorinėje saugykloje. Perkelkite programėlę į vidinę saugyklą.</string>
     <string name="external_rw_permission_denied">Suteikti prieigą prie saugyklos</string>
     <string name="post_notifications_denied">Suteikti prieigą prie pranešimų</string>
     <string name="install_unknown_denied">Suteikti prieigą prie įdiegimo iš nežinomų šaltinių</string>

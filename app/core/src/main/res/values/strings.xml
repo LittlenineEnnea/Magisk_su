@@ -21,16 +21,16 @@
     <string name="home_package">Package</string>
     <string name="home_app_title">App</string>
     <string name="reinstall">Reinstall</string>
-    <string name="home_notice_content">Download Magisk ONLY from the official GitHub page. Files from unknown sources can be malicious!</string>
+    <string name="home_notice_content">Download EnneaMagisk ONLY from the official GitHub page. Files from unknown sources can be malicious!</string>
     <string name="home_support_title">Support Us</string>
     <string name="home_follow_title">Follow Us</string>
     <string name="home_item_source">Source</string>
-    <string name="home_support_content">Magisk is, and always will be, free, and open source. However, you can show us that you care by making a donation.</string>
+    <string name="home_support_content">EnneaMagisk is, and always will be, free, and open source. However, you can show us that you care by making a donation.</string>
     <string name="home_installed_version">Installed</string>
     <string name="home_latest_version">Latest</string>
     <string name="invalid_update_channel">Invalid update channel</string>
-    <string name="uninstall_magisk_title">Uninstall Magisk</string>
-    <string name="uninstall_magisk_msg">All modules will be disabled/removed!\nRoot will be removed!\nAny internal storage unencrypted through the use of Magisk will be re-encrypted!</string>
+    <string name="uninstall_magisk_title">Uninstall EnneaMagisk</string>
+    <string name="uninstall_magisk_msg">All modules will be disabled/removed!\nRoot will be removed!\nAny internal storage unencrypted through the use of EnneaMagisk will be re-encrypted!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Preserve force encryption</string>
@@ -85,7 +85,7 @@
 
     <!--Logs-->
     <string name="log_data_none">You\'re log-free. Try using your root apps more.</string>
-    <string name="log_data_magisk_none">Magisk logs are empty, that\'s weird.</string>
+    <string name="log_data_magisk_none">EnneaMagisk logs are empty, that\'s weird.</string>
     <string name="menuSaveLog">Save log</string>
     <string name="menuClearLog">Clear log</string>
     <string name="logs_cleared">Log successfully cleared</string>
@@ -149,9 +149,9 @@
     <string name="settings_update_debug">Debug</string>
     <string name="settings_update_custom">Custom</string>
     <string name="settings_update_custom_msg">Insert a custom channel URL</string>
-    <string name="settings_zygisk_summary">Run parts of Magisk in the Zygote daemon</string>
+    <string name="settings_zygisk_summary">Run parts of EnneaMagisk in the Zygote daemon</string>
     <string name="settings_denylist_title">Enforce DenyList</string>
-    <string name="settings_denylist_summary">Processes on the denylist will have all Magisk modifications reverted</string>
+    <string name="settings_denylist_summary">Processes on the denylist will have all EnneaMagisk modifications reverted</string>
     <string name="settings_denylist_config_title">Configure DenyList</string>
     <string name="settings_denylist_config_summary">Select the processes to be included on the denylist</string>
     <string name="settings_hosts_title">Systemless hosts</string>
@@ -191,14 +191,14 @@
     <string name="isolate_summary">Each root session will have its own isolated namespace</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk updates</string>
+    <string name="update_channel">EnneaMagisk updates</string>
     <string name="progress_channel">Progress notifications</string>
     <string name="updated_channel">Update complete</string>
     <string name="su_notification_channel">Superuser Notifications</string>
     <string name="download_complete">Download complete</string>
     <string name="download_file_error">Error downloading file</string>
-    <string name="magisk_update_title">Magisk update available!</string>
-    <string name="updated_title">Magisk updated</string>
+    <string name="magisk_update_title">EnneaMagisk update available!</string>
+    <string name="updated_title">EnneaMagisk updated</string>
     <string name="updated_text">Tap to open app</string>
     <string name="su_notification_granted_title">Superuser Granted</string>
     <string name="su_notification_denied_title">Superuser Denied</string>
@@ -224,15 +224,15 @@
     <string name="restore_fail">Stock backup doesn\'t exist!</string>
     <string name="setup_fail">Setup failed</string>
     <string name="env_fix_title">Requires additional setup</string>
-    <string name="env_fix_msg">Your device needs additional setup for Magisk to work properly. Do you want to proceed and reboot?</string>
-    <string name="env_full_fix_msg">Your device needs reflash Magisk to work properly. Please reinstall Magisk within app, Recovery mode cannot get correct device info.</string>
+    <string name="env_fix_msg">Your device needs additional setup for EnneaMagisk to work properly. Do you want to proceed and reboot?</string>
+    <string name="env_full_fix_msg">Your device needs reflash EnneaMagisk to work properly. Please reinstall EnneaMagisk within app, Recovery mode cannot get correct device info.</string>
     <string name="setup_msg">Running environment setup…</string>
-    <string name="unsupport_magisk_title">Unsupported Magisk version</string>
-    <string name="unsupport_magisk_msg">This version of the app doesn\'t support Magisk versions lower than %1$s.\n\nThe app will behave as if no Magisk is installed. Please update Magisk as soon as possible.</string>
+    <string name="unsupport_magisk_title">Unsupported EnneaMagisk version</string>
+    <string name="unsupport_magisk_msg">This version of the app doesn\'t support EnneaMagisk versions lower than %1$s.\n\nThe app will behave as if no EnneaMagisk is installed. Please update EnneaMagisk as soon as possible.</string>
     <string name="unsupport_general_title">Abnormal state</string>
     <string name="unsupport_system_app_msg">Running this app as a system app isn\'t supported. Please revert the app to a user app.</string>
-    <string name="unsupport_other_su_msg">A \"su\" binary not from Magisk has been detected. Please remove any competing root solution and/or reinstall Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk is installed to external storage. Please move the app to internal storage.</string>
+    <string name="unsupport_other_su_msg">A \"su\" binary not from EnneaMagisk has been detected. Please remove any competing root solution and/or reinstall EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk is installed to external storage. Please move the app to internal storage.</string>
     <string name="external_rw_permission_denied">Grant storage permission to enable this functionality</string>
     <string name="post_notifications_denied">Grant notifications permission to enable this functionality</string>
     <string name="install_unknown_denied">Allow \"Install unknown apps\" to enable this functionality</string>

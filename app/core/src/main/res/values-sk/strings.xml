@@ -20,15 +20,15 @@
     <string name="home_package">Balíček</string>
     <string name="home_app_title">App</string>
 
-    <string name="home_notice_content">Magisk sťahujte IBA z oficiálnej stránky na GitHube. Súbory z neznámych zdrojov môžu byť škodlivé!</string>
+    <string name="home_notice_content">EnneaMagisk sťahujte IBA z oficiálnej stránky na GitHube. Súbory z neznámych zdrojov môžu byť škodlivé!</string>
     <string name="home_support_title">Podporte nás</string>
     <string name="home_follow_title">Sledujte nás</string>
     <string name="home_item_source">Zdroj</string>
-    <string name="home_support_content">Magisk je a vždy bude slobodný a s otvoreným kódom. Môžete nám však dať najavo, že vám na nás záleží, tým, že nám prispejete.</string>
+    <string name="home_support_content">EnneaMagisk je a vždy bude slobodný a s otvoreným kódom. Môžete nám však dať najavo, že vám na nás záleží, tým, že nám prispejete.</string>
     <string name="home_installed_version">Nainštalované</string>
     <string name="home_latest_version">Posledná</string>
     <string name="invalid_update_channel">Neplatný aktualizačný kanál</string>
-    <string name="uninstall_magisk_title">Odinštalovať Magisk</string>
+    <string name="uninstall_magisk_title">Odinštalovať EnneaMagisk</string>
     <string name="uninstall_magisk_msg">Všetky moduly budú zakázané/odstránené!\nRoot bude odstránený!\nAkékoľvek interné úložisko nešifrované pomocou Magisku bude znovu zašifrované!</string>
 
     <!--Install-->
@@ -177,7 +177,7 @@
     <string name="download_complete">Sťahovanie ukončené</string>
     <string name="download_file_error">Chyba sťahovania súboru</string>
     <string name="magisk_update_title">Je dostupná aktualizácia Magisku!</string>
-    <string name="updated_title">Magisk aktualizovaný</string>
+    <string name="updated_title">EnneaMagisk aktualizovaný</string>
     <string name="updated_text">Ťuknutím otvoríte apku</string>
 
     <!--Toasts, Dialogs-->
@@ -198,15 +198,15 @@
     <string name="restore_fail">Stock záloha neexistuje!</string>
     <string name="setup_fail">Nastavenie zlyhalo</string>
     <string name="env_fix_title">Vyžaduje sa ďalšie nastavenie</string>
-    <string name="env_fix_msg">Aby Magisk fungoval správne, vaše zariadenie potrebuje ďalšie nastavenie. Chcete pokračovať a reštartovať?</string>
-    <string name="env_full_fix_msg">Vaše zariadenie potrebuje na správne fungovanie reflash Magisku. Preinštalujte Magisk priamo z aplikácie, režim obnovenia nemôže získať správne informácie o zariadení.</string>
+    <string name="env_fix_msg">Aby EnneaMagisk fungoval správne, vaše zariadenie potrebuje ďalšie nastavenie. Chcete pokračovať a reštartovať?</string>
+    <string name="env_full_fix_msg">Vaše zariadenie potrebuje na správne fungovanie reflash Magisku. Preinštalujte EnneaMagisk priamo z aplikácie, režim obnovenia nemôže získať správne informácie o zariadení.</string>
     <string name="setup_msg">Nastavenie je spustené…</string>
     <string name="unsupport_magisk_title">Nepodporovaná verzia Magisku</string>
-    <string name="unsupport_magisk_msg">Táto verzia aplikácie nepodporuje Magisk s verziou nižšou ako %1$s.\n\nAplikácia sa bude správať, akoby Magisk nebol nainštalový, aktualizujte Magisk čo najskôr.</string>
+    <string name="unsupport_magisk_msg">Táto verzia aplikácie nepodporuje EnneaMagisk s verziou nižšou ako %1$s.\n\nAplikácia sa bude správať, akoby EnneaMagisk nebol nainštalový, aktualizujte EnneaMagisk čo najskôr.</string>
     <string name="unsupport_general_title">Abnormálny stav</string>
     <string name="unsupport_system_app_msg">Spustenie tejto apky ako systémovej nie je podporované. Preveďte apku na používateľskú.</string>
-    <string name="unsupport_other_su_msg">Bol nájdený binárny súbor \"su\", ktorý nie je pre Magisk. Odstráňte, prosím, konkurenčné root spôsoby a/alebo preinštalujte Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk je nainštalovaný na externom úložisku. Prosím, presuňte apku na interné úložisko.</string>
+    <string name="unsupport_other_su_msg">Bol nájdený binárny súbor \"su\", ktorý nie je pre EnneaMagisk. Odstráňte, prosím, konkurenčné root spôsoby a/alebo preinštalujte EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk je nainštalovaný na externom úložisku. Prosím, presuňte apku na interné úložisko.</string>
     <string name="external_rw_permission_denied">Udeľte povolenie na zapnutie tejto funkcie</string>
     <string name="post_notifications_denied">Udeľte upozorneniam povolenie na zapnutie tejto funkcie</string>
     <string name="install_unknown_denied">Povoľte "inštaláciu neznámych aplikácii" na povolenie tejto funkcie</string>

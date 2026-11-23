@@ -21,11 +21,11 @@
     <string name="home_notice_content">Ladda endast ned magisk från den officiella GitHub-sidan. Filer från okända källor kan innehålla skadlig kod!</string>
     <string name="home_support_title">Stöd oss</string>
     <string name="home_item_source">Källa</string>
-    <string name="home_support_content">Magisk är och kommer alltid att vara gratis med öppen källkod. Du kan dock visa din uppskattning genom att skicka en donation</string>
+    <string name="home_support_content">EnneaMagisk är och kommer alltid att vara gratis med öppen källkod. Du kan dock visa din uppskattning genom att skicka en donation</string>
     <string name="home_installed_version">Installerad</string>
     <string name="home_latest_version">Senaste</string>
     <string name="invalid_update_channel">Ogiltig uppdateringskanal</string>
-    <string name="uninstall_magisk_title">Avinstallera Magisk</string>
+    <string name="uninstall_magisk_title">Avinstallera EnneaMagisk</string>
     <string name="uninstall_magisk_msg">Alla moduler kommer att bli inaktiverade/borttagna!\nRoot kommer också att avinstalleras!\nDin data kan komma att krypteras om den inte är det redan!</string>
 
     <!--Install-->
@@ -149,11 +149,11 @@
 
 
     <!--Notifications-->
-    <string name="update_channel">Magisk-uppdatering</string>
+    <string name="update_channel">EnneaMagisk-uppdatering</string>
     <string name="progress_channel">Statusmeddelanden</string>
     <string name="download_complete">Nedladdning slutförd</string>
     <string name="download_file_error">Fel vid nedladdning utav fil</string>
-    <string name="magisk_update_title">En uppdatering för Magisk finns tillgänglig!</string>
+    <string name="magisk_update_title">En uppdatering för EnneaMagisk finns tillgänglig!</string>
 
     <!--Toasts, Dialogs-->
     <string name="yes">Ja</string>
@@ -173,10 +173,10 @@
     <string name="restore_fail">Orörd backup hittades inte!</string>
     <string name="setup_fail">Installation misslyckades</string>
     <string name="env_fix_title">Kräver ytterligare installation</string>
-    <string name="env_fix_msg">Din enhet behöver ytterligare installation för att Magisk ska fungera korrekt. Vill du fortsätta och starta om enheten?</string>
+    <string name="env_fix_msg">Din enhet behöver ytterligare installation för att EnneaMagisk ska fungera korrekt. Vill du fortsätta och starta om enheten?</string>
     <string name="setup_msg">Inställning av körmiljö…</string>
-    <string name="unsupport_magisk_title">Magisk-versionen stöds ej</string>
-    <string name="unsupport_magisk_msg">Denna version utav appen stödjer inte Magisk-versioner lägre än 1$s.\n\nAppen kommer att bete sig som att Magisk inte är installerat. Vänligen uppgradera din Magisk-version så snart som möjligt.</string>
+    <string name="unsupport_magisk_title">EnneaMagisk-versionen stöds ej</string>
+    <string name="unsupport_magisk_msg">Denna version utav appen stödjer inte EnneaMagisk-versioner lägre än 1$s.\n\nAppen kommer att bete sig som att EnneaMagisk inte är installerat. Vänligen uppgradera din EnneaMagisk-version så snart som möjligt.</string>
     <string name="external_rw_permission_denied">Tillåt tillgång till externt lagrinsmedia för att aktievera denna funktion</string>
     <string name="app_not_found">Ingen applikation hittades för att hantera den här åtgärden</string>
 </resources>

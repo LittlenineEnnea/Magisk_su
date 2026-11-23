@@ -18,14 +18,14 @@
     <string name="not_available">غير متاح</string>
     <string name="hide">إخفاء</string>    <string name="home_package">الحزمة</string>
     <string name="home_app_title">التطبيق</string>    <string name="reinstall">إعادة التثبيت</string>
-    <string name="home_notice_content">قم بتنزيل Magisk من صفحة GitHub الرسمية فقط. الملفات من مصادر مجهولة قد تكون ضارة!</string>
+    <string name="home_notice_content">قم بتنزيل EnneaMagisk من صفحة GitHub الرسمية فقط. الملفات من مصادر مجهولة قد تكون ضارة!</string>
     <string name="home_support_title">ادعمنا</string>
     <string name="home_follow_title">تابعنا</string>
     <string name="home_item_source">المصدر</string>
-    <string name="home_support_content">Magisk مجاني ومفتوح المصدر، وسيظل كذلك دائمًا. غير أنك تستطيع التعبير عن اهتمامك بالتبرع.</string>    <string name="home_installed_version">المثبّت</string>
+    <string name="home_support_content">EnneaMagisk مجاني ومفتوح المصدر، وسيظل كذلك دائمًا. غير أنك تستطيع التعبير عن اهتمامك بالتبرع.</string>    <string name="home_installed_version">المثبّت</string>
     <string name="home_latest_version">الأحدث</string>
-    <string name="invalid_update_channel">قناة التحديث غير صالحة</string>    <string name="uninstall_magisk_title">إلغاء تثبيت Magisk</string>
-    <string name="uninstall_magisk_msg">سيتم تعطيل/إزالة جميع الإضافات!\nسيتم إزالة الوصول الجذري!\nسيتم إعادة تشفير أي تخزين داخلي تم فك تشفيره باستخدام Magisk!</string>
+    <string name="invalid_update_channel">قناة التحديث غير صالحة</string>    <string name="uninstall_magisk_title">إلغاء تثبيت EnneaMagisk</string>
+    <string name="uninstall_magisk_msg">سيتم تعطيل/إزالة جميع الإضافات!\nسيتم إزالة الوصول الجذري!\nسيتم إعادة تشفير أي تخزين داخلي تم فك تشفيره باستخدام EnneaMagisk!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">الحفاظ على التشفير الإجباري</string>
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">لا توجد سجلات. جرّب استخدام تطبيقات الروت أكثر.</string>
-    <string name="log_data_magisk_none">سجلات Magisk فارغة، هذا غريب.</string>
+    <string name="log_data_magisk_none">سجلات EnneaMagisk فارغة، هذا غريب.</string>
     <string name="menuSaveLog">حفظ السجل</string>
     <string name="menuClearLog">مسح السجل الآن</string>
     <string name="logs_cleared">تم مسح السجل بنجاح</string>    <string name="back">رجوع</string>    <string name="enabled">مفعّل</string>
@@ -143,9 +143,9 @@
     <string name="settings_update_debug">تصحيح أخطاء</string>
     <string name="settings_update_custom">مخصص</string>
     <string name="settings_update_custom_msg">أدخل رابط قناة مخصصة</string>
-    <string name="settings_zygisk_summary">تشغيل أجزاء من Magisk داخل عملية Zygote</string>
+    <string name="settings_zygisk_summary">تشغيل أجزاء من EnneaMagisk داخل عملية Zygote</string>
     <string name="settings_denylist_title">تطبيق قائمة الحظر</string>
-    <string name="settings_denylist_summary">ستُعاد جميع تعديلات Magisk على العمليات المدرجة في قائمة الحظر</string>
+    <string name="settings_denylist_summary">ستُعاد جميع تعديلات EnneaMagisk على العمليات المدرجة في قائمة الحظر</string>
     <string name="settings_denylist_config_title">ضبط قائمة الحظر</string>
     <string name="settings_denylist_config_summary">تحديد العمليات المراد إدراجها في قائمة الحظر</string>
     <string name="settings_hosts_title">ملفات Hosts بدون نظام</string>
@@ -187,13 +187,13 @@
     <string name="isolate_summary">لكل جلسة روت namespace معزول خاص بها</string>
 
     <!--Notifications-->
-    <string name="update_channel">تحديثات Magisk</string>
+    <string name="update_channel">تحديثات EnneaMagisk</string>
     <string name="progress_channel">إشعارات التقدم</string>
     <string name="updated_channel">اكتمل التحديث</string>
     <string name="download_complete">اكتمل التنزيل</string>
     <string name="download_file_error">خطأ في تنزيل الملف</string>
-    <string name="magisk_update_title">يتوفر تحديث لـ Magisk!</string>
-    <string name="updated_title">تم تحديث Magisk</string>
+    <string name="magisk_update_title">يتوفر تحديث لـ EnneaMagisk!</string>
+    <string name="updated_title">تم تحديث EnneaMagisk</string>
     <string name="updated_text">انقر لفتح التطبيق</string>
 
     <!--Toasts, Dialogs-->
@@ -215,15 +215,15 @@
     <string name="restore_fail">لا تتوفر نسخة احتياطية أصلية!</string>
     <string name="setup_fail">فشل الإعداد</string>
     <string name="env_fix_title">يتطلب إعدادًا إضافيًا</string>
-    <string name="env_fix_msg">يحتاج جهازك إلى إعداد إضافي لكي يعمل Magisk بشكل صحيح. هل تريد المتابعة وإعادة التشغيل؟</string>
-    <string name="env_full_fix_msg">يحتاج جهازك إلى إعادة كتابة Magisk لكي يعمل بشكل صحيح. يرجى إعادة تثبيت Magisk من داخل التطبيق، إذ لا يستطيع وضع الاسترداد الحصول على معلومات الجهاز الصحيحة.</string>
+    <string name="env_fix_msg">يحتاج جهازك إلى إعداد إضافي لكي يعمل EnneaMagisk بشكل صحيح. هل تريد المتابعة وإعادة التشغيل؟</string>
+    <string name="env_full_fix_msg">يحتاج جهازك إلى إعادة كتابة EnneaMagisk لكي يعمل بشكل صحيح. يرجى إعادة تثبيت EnneaMagisk من داخل التطبيق، إذ لا يستطيع وضع الاسترداد الحصول على معلومات الجهاز الصحيحة.</string>
     <string name="setup_msg">جارٍ تهيئة البيئة…</string>
-    <string name="unsupport_magisk_title">إصدار Magisk غير مدعوم</string>
-    <string name="unsupport_magisk_msg">هذا الإصدار من التطبيق لا يدعم إصدارات Magisk الأقدم من %1$s.\n\nسيتصرف التطبيق كما لو لم يكن Magisk مثبّتًا. يرجى تحديث Magisk في أقرب وقت.</string>
+    <string name="unsupport_magisk_title">إصدار EnneaMagisk غير مدعوم</string>
+    <string name="unsupport_magisk_msg">هذا الإصدار من التطبيق لا يدعم إصدارات EnneaMagisk الأقدم من %1$s.\n\nسيتصرف التطبيق كما لو لم يكن EnneaMagisk مثبّتًا. يرجى تحديث EnneaMagisk في أقرب وقت.</string>
     <string name="unsupport_general_title">حالة غير طبيعية</string>
     <string name="unsupport_system_app_msg">تشغيل هذا التطبيق كتطبيق نظام غير مدعوم. يرجى إعادته إلى تطبيق مستخدم عادي.</string>
-    <string name="unsupport_other_su_msg">تم اكتشاف ملف ثنائي «su» لا ينتمي إلى Magisk. يرجى إزالة أي برنامج مدير روت أخر و/أو إعادة تثبيت Magisk.</string>
-    <string name="unsupport_external_storage_msg">تم تثبيت Magisk على تخزين خارجي. يرجى نقل التطبيق إلى التخزين الداخلي.</string>
+    <string name="unsupport_other_su_msg">تم اكتشاف ملف ثنائي «su» لا ينتمي إلى EnneaMagisk. يرجى إزالة أي برنامج مدير روت أخر و/أو إعادة تثبيت EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">تم تثبيت EnneaMagisk على تخزين خارجي. يرجى نقل التطبيق إلى التخزين الداخلي.</string>
     <string name="external_rw_permission_denied">امنح إذن التخزين لتفعيل هذه الميزة</string>
     <string name="post_notifications_denied">امنح إذن الإشعارات لتفعيل هذه الميزة</string>
     <string name="install_unknown_denied">اسمح بـ«تثبيت تطبيقات غير معروفة» لتفعيل هذه الميزة</string>

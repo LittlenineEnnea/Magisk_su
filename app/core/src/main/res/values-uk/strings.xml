@@ -18,13 +18,13 @@
     <string name="not_available">Н/Д</string>
     <string name="hide">Сховати</string>    <string name="home_package">Пакунок</string>
     <string name="home_app_title">Застосунок</string>    <string name="reinstall">Перевстановити</string>
-    <string name="home_notice_content">Завантажуйте Magisk ЛИШЕ з офіційної сторінки на GitHub. Файли з невідомих джерел можуть містити шкідливий функціонал!</string>
+    <string name="home_notice_content">Завантажуйте EnneaMagisk ЛИШЕ з офіційної сторінки на GitHub. Файли з невідомих джерел можуть містити шкідливий функціонал!</string>
     <string name="home_support_title">Підтримати нас</string>
     <string name="home_follow_title">Слідкуйте за нами</string>
     <string name="home_item_source">Джерело</string>
-    <string name="home_support_content">Magisk є, і завжди буде безкоштовним та з відкритим кодом. Однак, якщо вам не байдуже, можете зробити невеличке пожертвування.</string>    <string name="home_installed_version">Встановлено</string>
+    <string name="home_support_content">EnneaMagisk є, і завжди буде безкоштовним та з відкритим кодом. Однак, якщо вам не байдуже, можете зробити невеличке пожертвування.</string>    <string name="home_installed_version">Встановлено</string>
     <string name="home_latest_version">Найновіша</string>
-    <string name="invalid_update_channel">Невірний канал оновлення</string>    <string name="uninstall_magisk_title">Видалити Magisk</string>
+    <string name="invalid_update_channel">Невірний канал оновлення</string>    <string name="uninstall_magisk_title">Видалити EnneaMagisk</string>
     <string name="uninstall_magisk_msg">Ця дія призведе до вимкнення/видалення всіх модулів! Рут буде повністю видалено!\nВаші дані можуть зашифруватися, якщо вони не зашифровані!\nВпевнені, що бажаєте продовжити?</string>
 
     <!--Install-->
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Покищо немає даних в журналі, спробуйте більше користуватися застосунками, які потребують прав суперкористувача</string>
-    <string name="log_data_magisk_none">Журнал Magisk порожній, це дивно.</string>
+    <string name="log_data_magisk_none">Журнал EnneaMagisk порожній, це дивно.</string>
     <string name="menuSaveLog">Зберегти журнал</string>
     <string name="menuClearLog">Очистити журнал</string>
     <string name="logs_cleared">Журнал успішно очищено</string>    <string name="back">Назад</string>    <string name="enabled">Увімкнено</string>
@@ -143,9 +143,9 @@
     <string name="settings_update_debug">Налагодження</string>
     <string name="settings_update_custom">Власний</string>
     <string name="settings_update_custom_msg">Вставте власний URL</string>
-    <string name="settings_zygisk_summary">Запускати частини Magisk в сервісі zygote</string>
+    <string name="settings_zygisk_summary">Запускати частини EnneaMagisk в сервісі zygote</string>
     <string name="settings_denylist_title">Увімкнути DenyList</string>
-    <string name="settings_denylist_summary">Всі зміни, внесені Magisk, будуть приховані від процесів, позначених у DenyList</string>
+    <string name="settings_denylist_summary">Всі зміни, внесені EnneaMagisk, будуть приховані від процесів, позначених у DenyList</string>
     <string name="settings_denylist_config_title">Налаштувати DenyList</string>
     <string name="settings_denylist_config_summary">Вибрати процеси, які будуть додані до denylist</string>
     <string name="settings_hosts_title">Позасистемні хости</string>
@@ -187,13 +187,13 @@
     <string name="isolate_summary">Кожнен сеанс суперкористувача має власний ізольований простір імен</string>
 
     <!--Notifications-->
-    <string name="update_channel">Оновлення Magisk</string>
+    <string name="update_channel">Оновлення EnneaMagisk</string>
     <string name="progress_channel">Сповіщення прогресу</string>
     <string name="updated_channel">Оновлення завершено</string>
     <string name="download_complete">Завантаження завершено</string>
     <string name="download_file_error">Помилка завантаження файлу</string>
-    <string name="magisk_update_title">Доступне оновлення Magisk!</string>
-    <string name="updated_title">Magisk оновлено</string>
+    <string name="magisk_update_title">Доступне оновлення EnneaMagisk!</string>
+    <string name="updated_title">EnneaMagisk оновлено</string>
     <string name="updated_text">Торкніться, щоб відкрити застосунок</string>
 
     <!--Toasts, Dialogs-->
@@ -215,15 +215,15 @@
     <string name="restore_fail">Немає оригінальної резервної копії!</string>
     <string name="setup_fail">Не вдалося налаштувати</string>
     <string name="env_fix_title">Потрібне додаткове налаштування</string>
-    <string name="env_fix_msg">Для вашого пристрою необхідне додаткове налаштування, щоб Magisk працював як слід. Бажаєте виконати налаштування та перезавантажити пристрій?</string>
-    <string name="env_full_fix_msg">Для коректної роботи вашого пристрою потрібно перепрошити Magisk. Будь ласка, перевстановіть Magisk у застосунку, оскільки режим Recovery не може отримати правильну інформацію про пристрій.</string>
+    <string name="env_fix_msg">Для вашого пристрою необхідне додаткове налаштування, щоб EnneaMagisk працював як слід. Бажаєте виконати налаштування та перезавантажити пристрій?</string>
+    <string name="env_full_fix_msg">Для коректної роботи вашого пристрою потрібно перепрошити EnneaMagisk. Будь ласка, перевстановіть EnneaMagisk у застосунку, оскільки режим Recovery не може отримати правильну інформацію про пристрій.</string>
     <string name="setup_msg">Налаштування робочого середовища…</string>
-    <string name="unsupport_magisk_title">Версія Magisk не підтримується</string>
-    <string name="unsupport_magisk_msg">Ця версія застосунку не підтримує версію Magisk, нижчу за %1$s.\n\nЗастосунок буде працювати так, ніби немає встановленого Magisk. Будь ласка, оновіть Magisk якнайшвидше.</string>
+    <string name="unsupport_magisk_title">Версія EnneaMagisk не підтримується</string>
+    <string name="unsupport_magisk_msg">Ця версія застосунку не підтримує версію EnneaMagisk, нижчу за %1$s.\n\nЗастосунок буде працювати так, ніби немає встановленого EnneaMagisk. Будь ласка, оновіть EnneaMagisk якнайшвидше.</string>
     <string name="unsupport_general_title">Ненормальний стан</string>
     <string name="unsupport_system_app_msg">Запуск цього застосунку як системний застосунок не підтримується. Будь ласка, перевстановіть цей застосунок, щоб він був як звичайний застосунок, який встановлений користувачем.</string>
-    <string name="unsupport_other_su_msg">Виявлено команду \"su\", яка не належить до Magisk. Будь ласка, видаліть інші непідтримувані su.</string>
-    <string name="unsupport_external_storage_msg">Magisk встановлено на зовнішнє сховище. Будь ласка, перемістіть застосунок на внутрішнє сховище.</string>
+    <string name="unsupport_other_su_msg">Виявлено команду \"su\", яка не належить до EnneaMagisk. Будь ласка, видаліть інші непідтримувані su.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk встановлено на зовнішнє сховище. Будь ласка, перемістіть застосунок на внутрішнє сховище.</string>
     <string name="external_rw_permission_denied">Надайте доступ до сховища, щоб увімкнути цей функціонал</string>
     <string name="post_notifications_denied">Надайте дозвіл на сповіщення, щоб увімкнути цей функціонал</string>
     <string name="install_unknown_denied">Дозвольте \"Встановлення невідомих застосунків\", щоб увімкнути цей функціонал</string>

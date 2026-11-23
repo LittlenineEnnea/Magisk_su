@@ -20,16 +20,16 @@
     <string name="home_package">Pakiet</string>
     <string name="home_app_title">Aplikacja</string>
 
-    <string name="home_notice_content">Pobieraj Magisk tylko z oficjalnej strony GitHub. Pliki z nieznanych źródeł mogą być szkodliwe!</string>
+    <string name="home_notice_content">Pobieraj EnneaMagisk tylko z oficjalnej strony GitHub. Pliki z nieznanych źródeł mogą być szkodliwe!</string>
     <string name="home_support_title">Wesprzyj nas</string>
     <string name="home_follow_title">Śledź nas</string>
     <string name="home_item_source">Źródło</string>
-    <string name="home_support_content">Magisk jest i zawsze będzie darmowy i otwarty. Niemniej możesz nam pokazać, że Ci zależy, wysyłając drobną darowiznę.</string>
+    <string name="home_support_content">EnneaMagisk jest i zawsze będzie darmowy i otwarty. Niemniej możesz nam pokazać, że Ci zależy, wysyłając drobną darowiznę.</string>
     <string name="home_installed_version">Zainstalowany</string>
     <string name="home_latest_version">Ostatni</string>
     <string name="invalid_update_channel">Nieprawidłowy kanał aktualizacji</string>
-    <string name="uninstall_magisk_title">Odinstalowywanie Magisk</string>
-    <string name="uninstall_magisk_msg">Wszystkie moduły zostaną wyłączone/usunięte!\nRoot zostanie usunięty!\nWszelka wewnętrzna pamięć niezaszyfrowana w związku z użytkowaniem Magisk zostanie ponownie zaszyfrowana!</string>
+    <string name="uninstall_magisk_title">Odinstalowywanie EnneaMagisk</string>
+    <string name="uninstall_magisk_msg">Wszystkie moduły zostaną wyłączone/usunięte!\nRoot zostanie usunięty!\nWszelka wewnętrzna pamięć niezaszyfrowana w związku z użytkowaniem EnneaMagisk zostanie ponownie zaszyfrowana!</string>
 
     <!--Install-->
     <string name="keep_force_encryption">Zachowaj force encryption (wymuszenie szyfrowania)</string>
@@ -79,7 +79,7 @@
 
     <!--Logs-->
     <string name="log_data_none">Nie masz żadnych logów, spróbuj użyć aplikacji wymagających roota</string>
-    <string name="log_data_magisk_none">Logi Magisk są puste, to jest dziwne</string>
+    <string name="log_data_magisk_none">Logi EnneaMagisk są puste, to jest dziwne</string>
     <string name="menuSaveLog">Zapisz log</string>
     <string name="menuClearLog">Wyczyść log</string>
     <string name="logs_cleared">Log został pomyślnie wyczyszczony</string>
@@ -133,9 +133,9 @@
     <string name="settings_update_beta">Beta</string>
     <string name="settings_update_custom">Własny kanał</string>
     <string name="settings_update_custom_msg">Wprowadź adres URL własnego kanału</string>
-    <string name="settings_zygisk_summary">Uruchom część Magisk w demonie zygote</string>
+    <string name="settings_zygisk_summary">Uruchom część EnneaMagisk w demonie zygote</string>
     <string name="settings_denylist_title">Egzekwowanie listy odmów (DenyList)</string>
-    <string name="settings_denylist_summary">Procesy znajdujące się na liście odmów (DenyList) będą miały cofnięte wszystkie modyfikacje Magisk</string>
+    <string name="settings_denylist_summary">Procesy znajdujące się na liście odmów (DenyList) będą miały cofnięte wszystkie modyfikacje EnneaMagisk</string>
     <string name="settings_denylist_config_title">Konfiguracja listy odmów (DenyList)</string>
     <string name="settings_denylist_config_summary">Wybierz procesy, które mają się znajdować na liście odmów (DenyList)</string>
     <string name="settings_hosts_title">Hosty Systemless</string>
@@ -168,13 +168,13 @@
     <string name="isolate_summary">Każda sesja roota otrzyma własną, izolowaną przestrzeń nazw</string>
 
     <!--Notifications-->
-    <string name="update_channel">Aktualizacja Magisk</string>
+    <string name="update_channel">Aktualizacja EnneaMagisk</string>
     <string name="progress_channel">Powiadomienia o postępach</string>
     <string name="updated_channel">Aktualizacja zakończona</string>
     <string name="download_complete">Pobieranie zakończone</string>
     <string name="download_file_error">Błąd pobierania pliku</string>
-    <string name="magisk_update_title">Aktualizacja Magisk dostępna!</string>
-    <string name="updated_title">Magisk zaktualizowany</string>
+    <string name="magisk_update_title">Aktualizacja EnneaMagisk dostępna!</string>
+    <string name="updated_title">EnneaMagisk zaktualizowany</string>
     <string name="updated_text">Kliknij, aby otworzyć aplikację</string>
 
     <!--Toasts, Dialogs-->
@@ -195,15 +195,15 @@
     <string name="restore_fail">Kopia zapasowa nie istnieje!</string>
     <string name="setup_fail">Konfiguracja nieudana</string>
     <string name="env_fix_title">Wymagana dodatkowa konfiguracja</string>
-    <string name="env_fix_msg">Twoje urządzenie wymaga dodatkowej konfiguracji, aby Magisk działał poprawnie. Czy chcesz kontynuować i uruchomić ponownie?</string>
-    <string name="env_full_fix_msg">Twoje urządzenie wymaga ponownej instalacji Magisk, aby działać poprawnie. Zainstaluj ponownie Magisk używając aplikacji, tryb recovery nie może uzyskać prawidłowych informacji o urządzeniu.</string>
+    <string name="env_fix_msg">Twoje urządzenie wymaga dodatkowej konfiguracji, aby EnneaMagisk działał poprawnie. Czy chcesz kontynuować i uruchomić ponownie?</string>
+    <string name="env_full_fix_msg">Twoje urządzenie wymaga ponownej instalacji EnneaMagisk, aby działać poprawnie. Zainstaluj ponownie EnneaMagisk używając aplikacji, tryb recovery nie może uzyskać prawidłowych informacji o urządzeniu.</string>
     <string name="setup_msg">Uruchamianie środowiska konfiguracji…</string>
-    <string name="unsupport_magisk_title">Nieobsługiwana wersja Magisk</string>
-    <string name="unsupport_magisk_msg">Ta wersja aplikacji nie obsługuje Magisk w wersji niższej niż %1$s.\n\nAplikacja będzie zachowywać się tak, jakby Magisk nie był zainstalowany, zaktualizuj Magisk tak szybko, jak to możliwe.</string>
+    <string name="unsupport_magisk_title">Nieobsługiwana wersja EnneaMagisk</string>
+    <string name="unsupport_magisk_msg">Ta wersja aplikacji nie obsługuje EnneaMagisk w wersji niższej niż %1$s.\n\nAplikacja będzie zachowywać się tak, jakby EnneaMagisk nie był zainstalowany, zaktualizuj EnneaMagisk tak szybko, jak to możliwe.</string>
     <string name="unsupport_general_title">Nieprawidłowy stan</string>
     <string name="unsupport_system_app_msg">Uruchomienie tej aplikacji jako aplikacja systemowa nie jest obsługiwane. Przywróć aplikację do stanu aplikacji użytkownika.</string>
-    <string name="unsupport_other_su_msg">Wykryto plik binarny \"su\" nie należący do Magisk. Usuń wszelkie konkurencyjne rozwiązania root i/lub zainstaluj ponownie Magisk.</string>
-    <string name="unsupport_external_storage_msg">Magisk jest zainstalowany w pamięci zewnętrznej. Przenieś aplikację do pamięci wewnętrznej.</string>
+    <string name="unsupport_other_su_msg">Wykryto plik binarny \"su\" nie należący do EnneaMagisk. Usuń wszelkie konkurencyjne rozwiązania root i/lub zainstaluj ponownie EnneaMagisk.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk jest zainstalowany w pamięci zewnętrznej. Przenieś aplikację do pamięci wewnętrznej.</string>
     <string name="external_rw_permission_denied">Zezwól na dostęp do pamięci, aby włączyć tę funkcję</string>
     <string name="post_notifications_denied">Zezwól na otrzymywanie powiadomień, aby włączyć tę funkcję</string>
     <string name="install_unknown_denied">Zezwól na \"Instaluj z nieznanych źródeł\", aby włączyć tę funkcję</string>

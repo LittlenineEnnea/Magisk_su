@@ -19,15 +19,15 @@
     <string name="hide">پنهان کردن</string>
     <string name="home_package">پکیج</string>
     <string name="home_app_title">برنامه</string>
-    <string name="home_notice_content">Magisk را فقط از صفحه رسمی GitHub دانلود کنید. فایل‌ها از منابع ناشناس می‌توانند مخرب باشند!</string>
+    <string name="home_notice_content">EnneaMagisk را فقط از صفحه رسمی GitHub دانلود کنید. فایل‌ها از منابع ناشناس می‌توانند مخرب باشند!</string>
     <string name="home_follow_title">ما را دنبال کنید</string>
     <string name="home_support_title">حمایت ما</string>
     <string name="home_item_source">منبع</string>
-    <string name="home_support_content">این برنامه (Magisk) رایگان و متن باز است و همیشه خواهد ماند. اگرچه شما میتواند با دونیت خود نشان دهد که به ما اهمیت می دهید.</string>
+    <string name="home_support_content">این برنامه (EnneaMagisk) رایگان و متن باز است و همیشه خواهد ماند. اگرچه شما میتواند با دونیت خود نشان دهد که به ما اهمیت می دهید.</string>
     <string name="home_installed_version">نصب شده</string>
     <string name="home_latest_version">آخرین نسخه</string>
     <string name="invalid_update_channel">کانال بروزرسانی نامعتبر است</string>
-    <string name="uninstall_magisk_title">حذف Magisk</string>
+    <string name="uninstall_magisk_title">حذف EnneaMagisk</string>
     <string name="uninstall_magisk_msg">همه ماژول ها غیرفعال/حذف می شوند!\nروت حذف می شود!\nداده های شما اگر از قبل رمزگذارری نشده بودند رمز نگاری میشوند!</string>
 
     <!--Install-->
@@ -78,7 +78,7 @@
 
     <!--Logs-->
     <string name="log_data_none">شما هیچ لاگی ندارید, سعی کنید برنامه های که به روت دسترسی میگیرند را استفاده کنید.</string>
-    <string name="log_data_magisk_none">لاگ های مربوط به Magisk خالی است.</string>
+    <string name="log_data_magisk_none">لاگ های مربوط به EnneaMagisk خالی است.</string>
     <string name="menuSaveLog">ذخیره کردن لاگ</string>
     <string name="menuClearLog">پاک کردن لاگ</string>
     <string name="logs_cleared">لاگ با موفقیت پاک شد.</string>
@@ -133,9 +133,9 @@
     <string name="settings_update_debug">اشکال‌زدایی</string>
     <string name="settings_update_custom">شخصی سازی شده</string>
     <string name="settings_update_custom_msg">اضافه کردن یک URL سفارشی</string>
-    <string name="settings_zygisk_summary">اجرای بخش‌هایی از Magisk در سرویس Zygote</string>
+    <string name="settings_zygisk_summary">اجرای بخش‌هایی از EnneaMagisk در سرویس Zygote</string>
     <string name="settings_denylist_title">اعمال لیست منع</string>
-    <string name="settings_denylist_summary">فرآیندهای موجود در لیست منع تمام تغییرات Magisk را از دست خواهند داد</string>
+    <string name="settings_denylist_summary">فرآیندهای موجود در لیست منع تمام تغییرات EnneaMagisk را از دست خواهند داد</string>
     <string name="settings_denylist_config_title">پیکربندی لیست منع</string>
     <string name="settings_denylist_config_summary">انتخاب فرآیندهایی که باید در لیست منع قرار گیرند</string>
     <string name="settings_hosts_title">نصب بدون حذف یا تغییر در فایل ها</string>
@@ -170,13 +170,13 @@
     <string name="isolate_summary">هر سشن روت namespace جداگانه خود را دارد</string>
 
     <!--Notifications-->
-    <string name="update_channel">Magisk بروزرسانی های</string>
+    <string name="update_channel">EnneaMagisk بروزرسانی های</string>
     <string name="progress_channel">اعلان پیشرفت</string>
     <string name="updated_channel">به‌روزرسانی کامل شد</string>
     <string name="download_complete">دانلود کامل شد</string>
     <string name="download_file_error">خطا در دانلود فایل</string>
-    <string name="magisk_update_title">بروزرسانی Magisk در دسترس است!</string>
-    <string name="updated_title">Magisk به‌روزرسانی شد</string>
+    <string name="magisk_update_title">بروزرسانی EnneaMagisk در دسترس است!</string>
+    <string name="updated_title">EnneaMagisk به‌روزرسانی شد</string>
     <string name="updated_text">برای باز کردن برنامه لمس کنید</string>
 
     <!--Toasts, Dialogs-->
@@ -198,15 +198,15 @@
     <string name="restore_fail">نسخه پشتیبان استک موجود نیست!</string>
     <string name="setup_fail">نصب انجام نشد</string>
     <string name="env_fix_title">به تنظیمات اضافی نیاز دارد</string>
-    <string name="env_fix_msg">دستگاه شما به پیکربندی اضافی نیاز دارد تا Magisk به درستی کار کند. آیا می‌خواهید ادامه دهید و راه‌اندازی مجدد انجام شود؟</string>
-    <string name="env_full_fix_msg">دستگاه شما نیاز به نصب دوباره Magisk دارد تا به درستی کار کند. لطفاً Magisk را از داخل برنامه دوباره نصب کنید، حالت Recovery نمی‌تواند اطلاعات دستگاه را به درستی بگیرد.</string>
+    <string name="env_fix_msg">دستگاه شما به پیکربندی اضافی نیاز دارد تا EnneaMagisk به درستی کار کند. آیا می‌خواهید ادامه دهید و راه‌اندازی مجدد انجام شود؟</string>
+    <string name="env_full_fix_msg">دستگاه شما نیاز به نصب دوباره EnneaMagisk دارد تا به درستی کار کند. لطفاً EnneaMagisk را از داخل برنامه دوباره نصب کنید، حالت Recovery نمی‌تواند اطلاعات دستگاه را به درستی بگیرد.</string>
     <string name="setup_msg">راه اندازی محیط نصب…</string>
-    <string name="unsupport_magisk_title">نسخه پشتیبانی نشده Magisk</string>
-    <string name="unsupport_magisk_msg">این نسخه از برنامه از نسخه‌های Magisk پایین‌تر از %1$s پشتیبانی نمی‌کند.\n\nبرنامه طوری رفتار می‌کند که انگار Magisk نصب نشده است. لطفاً هرچه سریع‌تر Magisk را به‌روزرسانی کنید.</string>
+    <string name="unsupport_magisk_title">نسخه پشتیبانی نشده EnneaMagisk</string>
+    <string name="unsupport_magisk_msg">این نسخه از برنامه از نسخه‌های EnneaMagisk پایین‌تر از %1$s پشتیبانی نمی‌کند.\n\nبرنامه طوری رفتار می‌کند که انگار EnneaMagisk نصب نشده است. لطفاً هرچه سریع‌تر EnneaMagisk را به‌روزرسانی کنید.</string>
     <string name="unsupport_general_title">وضعیت غیرعادی</string>
     <string name="unsupport_system_app_msg">اجرای این برنامه به عنوان برنامه سیستمی پشتیبانی نمی‌شود. لطفاً آن را به برنامه کاربری بازگردانید.</string>
-    <string name="unsupport_other_su_msg">یک باینری "su" غیر از Magisk شناسایی شد. لطفاً هر راهکار روت دیگری را حذف کنید و/یا Magisk را دوباره نصب کنید.</string>
-    <string name="unsupport_external_storage_msg">Magisk روی حافظه خارجی نصب شده است. لطفاً برنامه را به حافظه داخلی منتقل کنید.</string>
+    <string name="unsupport_other_su_msg">یک باینری "su" غیر از EnneaMagisk شناسایی شد. لطفاً هر راهکار روت دیگری را حذف کنید و/یا EnneaMagisk را دوباره نصب کنید.</string>
+    <string name="unsupport_external_storage_msg">EnneaMagisk روی حافظه خارجی نصب شده است. لطفاً برنامه را به حافظه داخلی منتقل کنید.</string>
     <string name="external_rw_permission_denied">برای فعال کردن این قابلیت ، اجازه دسترسی به حافظه بدهید</string>
     <string name="post_notifications_denied">برای فعال‌سازی این قابلیت، مجوز اعلان‌ها را بدهید</string>
     <string name="install_unknown_denied">برای فعال‌سازی این قابلیت، «نصب برنامه‌های ناشناخته» را مجاز کنید</string>
