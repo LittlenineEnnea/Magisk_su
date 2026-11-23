@@ -137,6 +137,23 @@ impl SePolicy {
             // Keep /data/adb/* context
             deny(["init"], ["adb_data_file"], ["dir"], ["search"]);
             deny(["vendor_init"], ["adb_data_file"], ["dir"], ["search"]);
+
+            // --- adb root support ---
+            // adbd transitions itself to its --root_seclabel (u:r:su:s0) once
+            // it decides to keep privileges. On user builds the su type exists
+            // but carries no permissions, so grant what that transition needs.
+            allow(["adbd"], ["adbd"], ["process"], ["setcurrent"]);
+            allow(["adbd"], ["su"], ["process"], ["dyntransition"]);
+            allow(["su"], all, all, all);
+            permissive(["su"]);
+
+            // magiskd starts adbd itself so it can wrap it in a private mount
+            // namespace. Keep adbd in its own domain; running it as magisk
+            // makes its own setcon fail and adbd aborts.
+            allow([proc], ["adbd"], ["process"],
+                ["transition", "siginh", "rlimitinh", "noatsecure"]);
+            allow([proc], ["adbd_exec"], ["file"],
+                ["read", "open", "getattr", "execute", "map"]);
         }
 
         #[cfg(any())]

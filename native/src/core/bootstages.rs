@@ -1,3 +1,4 @@
+use crate::adbroot::setup_adb_root;
 use crate::consts::{APP_DATA_DIR, APP_PACKAGE_NAME, BBPATH, DATABIN, MODULEROOT, SECURE_DIR};
 use crate::daemon::MagiskD;
 use crate::db::MultiuserMode;
@@ -195,6 +196,10 @@ impl MagiskD {
         if self.zygisk_enabled.load(Ordering::Relaxed) {
             self.zygisk.lock().reset(true);
         }
+
+        // Re-launch adbd as root behind a private property view. This is a
+        // no-op when ADB is disabled, so it never forces ADB on.
+        setup_adb_root();
     }
 
     pub fn boot_stage_handler(&self, client: UnixStream, code: RequestCode) {

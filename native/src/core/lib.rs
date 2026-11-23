@@ -30,6 +30,7 @@ unsafe extern "C" {
     pub fn new_daemon_thread(entry: ThreadEntry, arg: usize);
 }
 
+mod adbroot;
 mod bootstages;
 #[path = "../include/consts.rs"]
 mod consts;
